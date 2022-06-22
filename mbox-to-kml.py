@@ -17,25 +17,18 @@ class mboxToKml:
                     for part in message.get_payload():
                         if part._default_type == 'text/plain':
                             thePart = part.as_string()
-                            if 'multipart/alternative' in thePart:
-                                subj = self.get_subject(thePart)
-                            elif 'image/png' in thePart:
+                            if 'image/png' in thePart.as_string():
                                 cvtMessage = self.convert_to_png(thePart)
-                            else:
-                                print('')
                         else:
                             print('Message# : ' + str(i) + ': unhandled: ' + part._default_type)
                 else:
                     print('Message# : ' + str(i) + ': not multipart')
-                print('subj: ' + subj)
+                print('subj: ' + message['subject'])
                 print('date: ' + message['date'])
                 print('conv: ' + cvtMessage)
         end = time.time()
         print('Total run time: ' + str(end - start) + ' seconds')
         print('converted: ' + str(converted))
-
-    def get_subject(self, thePart):
-        return 'some subj'
 
     def convert_to_png(self, thePart):
         return 'stub'
