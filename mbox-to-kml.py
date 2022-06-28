@@ -5,9 +5,10 @@ import re
 
 class mboxToKml:
     def run(self):
+        self.year = '2020'
         filesWritten = {}
         start = time.time()
-        mbox = mailbox.mbox(r'2020.mbox')
+        mbox = mailbox.mbox(self.year + '.mbox')
         for i, message in enumerate(mbox):
             if i == 0:
                 self.print_elapsed_seconds('Open mbox file', start)
@@ -23,6 +24,8 @@ class mboxToKml:
                                 theStr = thePart.as_string()
                             if 'image/png' in theStr:
                                 fname = self.create_file_name(message['subject'])
+                                if not fname:
+                                    fname = str(i)
                                 if fname in filesWritten.keys():
                                     print("***** dup: " + fname + ': for subject: "' + message["subject"] + '" and "' + filesWritten[fname] + '"')
                                 else:
@@ -37,7 +40,26 @@ class mboxToKml:
                     print('Message# : ' + str(i) + ': not multipart')
         self.print_elapsed_seconds('Total run time', start)
         print('converted: ' + str(len(filesWritten)))
+        self.write_kml(filesWritten)
 
+    def write_kml(self, fnames):
+        kml = '<?xml version="1.0" encoding="UTF-8"?>\n\
+<kml xmlns="http://www.opengis.net/kml/2.2">\n\
+  <Document>\n'
+        for fn in fnames:
+            kml = kml + ('    <Placemark>\n' +
+'      <name>' + fn + '</name>\n' +
+'      <styleUrl>#icon-1899-0288D1</styleUrl>\n' +
+'      <Point>\n' +
+'        <coordinates>\n' +
+'        </coordinates>\n' +
+'      </Point>\n' +
+'    </Placemark>\n')
+        kml = kml + ('  </Document>\n' +
+'</kml>')
+        g = open(self.year + '.kml', "w")
+        g.write(kml)
+    
     def print_elapsed_seconds(self, msg, start):
         secs = round(time.time() - start, 0)
         print(msg + ': ' + str(secs) + ' seconds')
