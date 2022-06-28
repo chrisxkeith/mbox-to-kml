@@ -46,7 +46,7 @@ class mboxToKml:
                 pngData = pngData + (aLine + '\n')
             if aLine == '':
                 pastHeaders = True
-        g = open(fname, "w")
-        g.write(str(base64.b64decode(pngData)))
+        g = open(fname, "wb")
+        g.write(base64.b64decode(pngData))
  
 mboxToKml().run()
