@@ -5,9 +5,9 @@ import re
 
 class mboxToKml:
     def run(self):
-        filesWritten = set(())
+        filesWritten = {}
         start = time.time()
-        mbox = mailbox.mbox(r'2020-10-emails.mbox') # 2020.mbox')
+        mbox = mailbox.mbox(r'2020.mbox')
         for i, message in enumerate(mbox):
             if i == 0:
                 self.print_elapsed_seconds('Open mbox file', start)
@@ -23,14 +23,14 @@ class mboxToKml:
                                 theStr = thePart.as_string()
                             if 'image/png' in theStr:
                                 fname = self.create_file_name(message['subject'])
-                                if fname in filesWritten:
-                                    print("           dup: " + fname)
+                                if fname in filesWritten.keys():
+                                    print("***** dup: " + fname + ': for subject: "' + message["subject"] + '" and "' + filesWritten[fname] + '"')
                                 else:
                                     strt = time.time()
                                     self.convert_to_png(fname, thePart)
                                     secs = round(time.time() - strt, 0)
                                     print(str(secs) + ': ' + fname)
-                                    filesWritten.add(fname)
+                                    filesWritten[fname] = message["subject"]
                         else:
                             print('Message# : ' + str(i) + ': unhandled: ' + part._default_type)
                 else:
