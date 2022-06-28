@@ -5,14 +5,14 @@ import re
 
 class mboxToKml:
     def run(self):
+        filesWritten = set(())
         start = time.time()
-        mbox = mailbox.mbox(r'2020-10-emails.mbox')
-        converted = 0
+        mbox = mailbox.mbox(r'2020-10-emails.mbox') # 2020.mbox')
         for i, message in enumerate(mbox):
             if i == 0:
-                end = time.time()
-                print('Open mbox file: ' + str(end - start) + ' seconds')
-            if message['from'] == 'Christopher Keith <chris.keith@gmail.com>':
+                self.print_elapsed_seconds('Open mbox file', start)
+            if message['from'] == 'Christopher Keith <chris.keith@gmail.com>' and \
+                    not message['subject'].startswith('Re:'):
                 if message.is_multipart():
                     for part in message.get_payload():
                         if part._default_type == 'text/plain':
@@ -22,23 +22,36 @@ class mboxToKml:
                             else:
                                 theStr = thePart.as_string()
                             if 'image/png' in theStr:
-                                self.convert_to_png(message['subject'], thePart)
+                                fname = self.create_file_name(message['subject'])
+                                if fname in filesWritten:
+                                    print("           dup: " + fname)
+                                else:
+                                    strt = time.time()
+                                    self.convert_to_png(fname, thePart)
+                                    secs = round(time.time() - strt, 0)
+                                    print(str(secs) + ': ' + fname)
+                                    filesWritten.add(fname)
                         else:
                             print('Message# : ' + str(i) + ': unhandled: ' + part._default_type)
                 else:
                     print('Message# : ' + str(i) + ': not multipart')
-                converted = converted + 1
-        end = time.time()
-        print('Total run time: ' + str(end - start) + ' seconds')
-        print('converted: ' + str(converted))
+        self.print_elapsed_seconds('Total run time', start)
+        print('converted: ' + str(len(filesWritten)))
 
-    def convert_to_png(self, subject, thePart):
+    def print_elapsed_seconds(self, msg, start):
+        secs = round(time.time() - start, 0)
+        print(msg + ': ' + str(secs) + ' seconds')
+
+    def create_file_name(self, subject):
         subject = subject.replace(' ', 'xxxxx')
         subject = re.sub(r'Re: ', '', subject)
         subject = re.sub(r'Seen on a past walk', '', subject)
         fname = re.sub(r'\W', '', subject) + '.png'
         fname = fname.replace('xxxxx', ' ')
         fname = fname.replace('Seen on todays walk ', '')
+        return fname
+
+    def convert_to_png(self, fname, thePart):
         pastHeaders = False
         pngData = ''
         for aLine in thePart.split('\n'):
