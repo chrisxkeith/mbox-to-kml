@@ -130,3 +130,5 @@ dmypy.json
 
 *.mbox
 *.html
+*.kml
+*.png
