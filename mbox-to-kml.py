@@ -6,7 +6,7 @@ import re
 class mboxToKml:
     def run(self):
         start = time.time()
-        for self.year in {'2020-10-emails'}: # '2020', '2021', '2022'}: 
+        for self.year in ['2020', '2021', '2022']: # '2020-10-emails']: # 
             self.oneYear()
         self.print_elapsed_time('Full run', start)
 
@@ -31,17 +31,18 @@ class mboxToKml:
                                 fname = self.create_file_name(message['subject'])
                                 if not fname:
                                     fname = str(i)
+                                extractPng = True
                                 if fname in filesWritten.keys():
                                     pngData = self.extract_png_data(thePart)
                                     if pngData == filesWritten[fname]['pngData']:
-                                        print('***** dup: ' + fname + ': for subject: "' + message['subject'] + '"')
+                                        extractPng = False
                                     else:
-                                        print('***** dup name but not data: ' + fname + ': for subject: "' + message['subject'] + '"')
-                                else:
-                                    # strt = time.time()
-                                    # self.convert_to_png(fname, thePart)
-                                    # secs = round(time.time() - strt, 0)
-                                    # print(str(secs) + ': ' + fname)
+                                        fname = fname.replace('.png', '') + ' ' + str(i) + '.png'
+                                if extractPng:
+                                    strt = time.time()
+                                    self.convert_to_png(fname, thePart)
+                                    secs = round(time.time() - strt, 0)
+                                    print(str(secs) + ': ' + fname)
                                     filesWritten[fname] = { 'subject' : message['subject'], 'date' : message['date'], 'pngData' : self.extract_png_data(thePart)}
                         else:
                             print('Message# : ' + str(i) + ': unhandled: ' + part._default_type)
@@ -76,13 +77,12 @@ class mboxToKml:
         print(msg + ': ' + s + ' mm:ss')
 
     def create_file_name(self, subject):
+        subject = re.sub(r'Seen on (.* )*walk', '', subject)
         subject = subject.replace(' ', 'xxxxx')
-        subject = re.sub(r'Re: ', '', subject)
-        subject = re.sub(r'Seen on a past walk', '', subject)
-        fname = re.sub(r'\W', '', subject) + '.png'
-        fname = fname.replace('xxxxx', ' ')
-        fname = fname.replace('Seen on todays walk ', '')
-        return fname
+        subject = re.sub(r'\W', '', subject)
+        subject = subject.replace('xxxxx', ' ')
+        subject.strip()
+        return subject.strip() + '.png'
 
     def extract_png_data(self, thePart):
         pastHeaders = False
@@ -95,7 +95,8 @@ class mboxToKml:
         return pngData
  
     def convert_to_png(self, fname, thePart):
-        g = open('photos\\' + fname, "wb")
-        g.write(base64.b64decode(base64.b64decode(self.extract_png_data(thePart))))
+        # Remember to manually delete old photos.
+        g = open(self.year + ' photos\\' + fname, "wb")
+        g.write(base64.b64decode(self.extract_png_data(thePart)))
  
 mboxToKml().run()
