@@ -29,8 +29,8 @@ class mboxToKml:
                                 theStr = thePart.as_string()
                             if 'image/png' in theStr:
                                 fname = self.create_file_name(message['subject'])
-                                if not fname:
-                                    fname = str(i)
+                                if not fname or fname == '.png':
+                                    fname = str(i) + '.png'
                                 extractPng = True
                                 if fname in filesWritten.keys():
                                     pngData = self.extract_png_data(thePart)
@@ -95,7 +95,7 @@ class mboxToKml:
         return pngData
  
     def convert_to_png(self, fname, thePart):
-        # Remember to manually delete old photos.
+        # Manually delete old photos when necessary, e.g., after changing file name code.
         g = open(self.year + ' photos\\' + fname, "wb")
         g.write(base64.b64decode(self.extract_png_data(thePart)))
  
