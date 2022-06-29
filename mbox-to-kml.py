@@ -5,7 +5,12 @@ import re
 
 class mboxToKml:
     def run(self):
-        self.year = '2020'
+        start = time.time()
+        for self.year in {'2020', '2021', '2022'}:
+            self.oneYear()
+        self.print_elapsed_seconds('Full run', start)
+
+    def oneYear(self):
         filesWritten = {}
         start = time.time()
         mbox = mailbox.mbox(self.year + '.mbox')
@@ -29,10 +34,10 @@ class mboxToKml:
                                 if fname in filesWritten.keys():
                                     print("***** dup: " + fname + ': for subject: "' + message["subject"] + '" and "' + filesWritten[fname] + '"')
                                 else:
-                                    strt = time.time()
-                                    self.convert_to_png(fname, thePart)
-                                    secs = round(time.time() - strt, 0)
-                                    print(str(secs) + ': ' + fname)
+                                    # strt = time.time()
+                                    # self.convert_to_png(fname, thePart)
+                                    # secs = round(time.time() - strt, 0)
+                                    # print(str(secs) + ': ' + fname)
                                     filesWritten[fname] = message["subject"]
                         else:
                             print('Message# : ' + str(i) + ': unhandled: ' + part._default_type)
@@ -48,7 +53,7 @@ class mboxToKml:
   <Document>\n'
         for fn in fnames:
             kml = kml + ('    <Placemark>\n' +
-'      <name>' + fn + '</name>\n' +
+'      <name>' + fn.replace('.png', '') + '</name>\n' +
 '      <styleUrl>#icon-1899-0288D1</styleUrl>\n' +
 '      <Point>\n' +
 '        <coordinates>\n' +
