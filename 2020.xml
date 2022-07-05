@@ -2,8 +2,8 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
     <Placemark>
-      <name>bobblehead  Mariachi</name>
-      <description>Tue, 1 Dec 2020 12:05:11 -0800</description>
+      <name>Bobblehead Mariachi</name>
+      <description>Tue, Dec 01 2020</description>
       <styleUrl>#icon-1899-0288D1</styleUrl>
       <Point>
         <coordinates>
@@ -11,8 +11,8 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>minimal Christmas creche</name>
-      <description>Tue, 22 Dec 2020 12:09:07 -0800</description>
+      <name>Minimal Christmas creche</name>
+      <description>Tue, Dec 22 2020</description>
       <styleUrl>#icon-1899-0288D1</styleUrl>
       <Point>
         <coordinates>
@@ -21,7 +21,7 @@
     </Placemark>
     <Placemark>
       <name>Succulent in tree</name>
-      <description>Sat, 15 Aug 2020 08:59:12 -0700</description>
+      <description>Sat, Aug 15 2020</description>
       <styleUrl>#icon-1899-0288D1</styleUrl>
       <Point>
         <coordinates>
@@ -29,8 +29,8 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>twig or insect</name>
-      <description>Sun, 6 Dec 2020 11:43:44 -0800</description>
+      <name>Twig or insect</name>
+      <description>Sun, Dec 06 2020</description>
       <styleUrl>#icon-1899-0288D1</styleUrl>
       <Point>
         <coordinates>
@@ -38,8 +38,8 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>rude sign</name>
-      <description>Sat, 5 Sep 2020 08:04:25 -0700</description>
+      <name>Rude sign</name>
+      <description>Sat, Sep 05 2020</description>
       <styleUrl>#icon-1899-0288D1</styleUrl>
       <Point>
         <coordinates>
@@ -48,7 +48,7 @@
     </Placemark>
     <Placemark>
       <name>California Gold</name>
-      <description>Mon, 3 Aug 2020 10:36:40 -0700</description>
+      <description>Mon, Aug 03 2020</description>
       <styleUrl>#icon-1899-0288D1</styleUrl>
       <Point>
         <coordinates>
@@ -57,7 +57,7 @@
     </Placemark>
     <Placemark>
       <name>California Gold 29</name>
-      <description>Mon, 3 Aug 2020 10:36:40 -0700</description>
+      <description>Mon, Aug 03 2020</description>
       <styleUrl>#icon-1899-0288D1</styleUrl>
       <Point>
         <coordinates>
@@ -66,7 +66,7 @@
     </Placemark>
     <Placemark>
       <name>Dont want to clutter up your bumper</name>
-      <description>Sat, 4 Jul 2020 12:13:06 -0700</description>
+      <description>Sat, Jul 04 2020</description>
       <styleUrl>#icon-1899-0288D1</styleUrl>
       <Point>
         <coordinates>
@@ -74,8 +74,8 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>way to nowhere</name>
-      <description>Wed, 24 Jun 2020 15:42:01 -0700</description>
+      <name>Way to nowhere</name>
+      <description>Wed, Jun 24 2020</description>
       <styleUrl>#icon-1899-0288D1</styleUrl>
       <Point>
         <coordinates>
@@ -83,8 +83,8 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>upside down statuary</name>
-      <description>Fri, 27 Nov 2020 10:26:21 -0800</description>
+      <name>Upside down statuary</name>
+      <description>Fri, Nov 27 2020</description>
       <styleUrl>#icon-1899-0288D1</styleUrl>
       <Point>
         <coordinates>
@@ -93,7 +93,7 @@
     </Placemark>
     <Placemark>
       <name>Conserving water or not</name>
-      <description>Mon, 28 Sep 2020 10:35:49 -0700</description>
+      <description>Mon, Sep 28 2020</description>
       <styleUrl>#icon-1899-0288D1</styleUrl>
       <Point>
         <coordinates>
@@ -101,8 +101,8 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>a new diner delicacy</name>
-      <description>Mon, 17 Aug 2020 10:07:30 -0700</description>
+      <name>A new diner delicacy</name>
+      <description>Mon, Aug 17 2020</description>
       <styleUrl>#icon-1899-0288D1</styleUrl>
       <Point>
         <coordinates>
@@ -110,8 +110,8 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>evidence of yet another accident</name>
-      <description>Tue, 29 Dec 2020 12:21:11 -0800</description>
+      <name>Evidence of yet another accident</name>
+      <description>Tue, Dec 29 2020</description>
       <styleUrl>#icon-1899-0288D1</styleUrl>
       <Point>
         <coordinates>
@@ -119,8 +119,8 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>evidence of yet another accident 50</name>
-      <description>Tue, 29 Dec 2020 12:21:11 -0800</description>
+      <name>Evidence of yet another accident 50</name>
+      <description>Tue, Dec 29 2020</description>
       <styleUrl>#icon-1899-0288D1</styleUrl>
       <Point>
         <coordinates>
@@ -129,7 +129,7 @@
     </Placemark>
     <Placemark>
       <name>Stump removal too hard</name>
-      <description>Sun, 12 Jul 2020 11:19:21 -0700</description>
+      <description>Sun, Jul 12 2020</description>
       <styleUrl>#icon-1899-0288D1</styleUrl>
       <Point>
         <coordinates>
@@ -138,7 +138,7 @@
     </Placemark>
     <Placemark>
       <name>No Parking sign</name>
-      <description>Sun, 13 Sep 2020 08:19:03 -0700</description>
+      <description>Sun, Sep 13 2020</description>
       <styleUrl>#icon-1899-0288D1</styleUrl>
       <Point>
         <coordinates>
@@ -146,8 +146,8 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>sidewalk chalk art</name>
-      <description>Mon, 8 Jun 2020 10:14:45 -0700</description>
+      <name>Sidewalk chalk art</name>
+      <description>Mon, Jun 08 2020</description>
       <styleUrl>#icon-1899-0288D1</styleUrl>
       <Point>
         <coordinates>
@@ -155,8 +155,8 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>tree remnant</name>
-      <description>Tue, 17 Nov 2020 09:40:54 -0800</description>
+      <name>Tree remnant</name>
+      <description>Tue, Nov 17 2020</description>
       <styleUrl>#icon-1899-0288D1</styleUrl>
       <Point>
         <coordinates>
@@ -165,7 +165,7 @@
     </Placemark>
     <Placemark>
       <name>Nice sidewalk chalk sentiment seen on todays walk</name>
-      <description>Mon, 27 Apr 2020 14:42:50 -0700</description>
+      <description>Mon, Apr 27 2020</description>
       <styleUrl>#icon-1899-0288D1</styleUrl>
       <Point>
         <coordinates>
@@ -174,7 +174,7 @@
     </Placemark>
     <Placemark>
       <name>Invasion of the Tiny Gnomes</name>
-      <description>Wed, 10 Jun 2020 10:18:09 -0700</description>
+      <description>Wed, Jun 10 2020</description>
       <styleUrl>#icon-1899-0288D1</styleUrl>
       <Point>
         <coordinates>
@@ -183,7 +183,7 @@
     </Placemark>
     <Placemark>
       <name>Cannibal jack olantern</name>
-      <description>Mon, 2 Nov 2020 13:28:05 -0800</description>
+      <description>Mon, Nov 02 2020</description>
       <styleUrl>#icon-1899-0288D1</styleUrl>
       <Point>
         <coordinates>
@@ -191,8 +191,8 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>problem with moles</name>
-      <description>Mon, 7 Sep 2020 10:09:27 -0700</description>
+      <name>Problem with moles</name>
+      <description>Mon, Sep 07 2020</description>
       <styleUrl>#icon-1899-0288D1</styleUrl>
       <Point>
         <coordinates>
@@ -200,8 +200,8 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>garden gnome nightlight</name>
-      <description>Thu, 3 Sep 2020 09:46:16 -0700</description>
+      <name>Garden gnome nightlight</name>
+      <description>Thu, Sep 03 2020</description>
       <styleUrl>#icon-1899-0288D1</styleUrl>
       <Point>
         <coordinates>
@@ -209,8 +209,8 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>large inflated reindeer</name>
-      <description>Fri, 18 Dec 2020 10:06:14 -0800</description>
+      <name>Large inflated reindeer</name>
+      <description>Fri, Dec 18 2020</description>
       <styleUrl>#icon-1899-0288D1</styleUrl>
       <Point>
         <coordinates>
@@ -218,8 +218,8 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>an excess of rubber duckies</name>
-      <description>Tue, 28 Jul 2020 12:11:02 -0700</description>
+      <name>An excess of rubber duckies</name>
+      <description>Tue, Jul 28 2020</description>
       <styleUrl>#icon-1899-0288D1</styleUrl>
       <Point>
         <coordinates>
@@ -227,8 +227,8 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>glass collection</name>
-      <description>Mon, 6 Jul 2020 09:42:54 -0700</description>
+      <name>Glass collection</name>
+      <description>Mon, Jul 06 2020</description>
       <styleUrl>#icon-1899-0288D1</styleUrl>
       <Point>
         <coordinates>
@@ -237,7 +237,7 @@
     </Placemark>
     <Placemark>
       <name>Short street long address</name>
-      <description>Sat, 7 Nov 2020 16:15:54 -0800</description>
+      <description>Sat, Nov 07 2020</description>
       <styleUrl>#icon-1899-0288D1</styleUrl>
       <Point>
         <coordinates>
@@ -246,7 +246,7 @@
     </Placemark>
     <Placemark>
       <name>Short street long address 117</name>
-      <description>Sat, 7 Nov 2020 16:15:54 -0800</description>
+      <description>Sat, Nov 07 2020</description>
       <styleUrl>#icon-1899-0288D1</styleUrl>
       <Point>
         <coordinates>
@@ -254,8 +254,8 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>one very happy squash</name>
-      <description>Sun, 4 Oct 2020 17:58:47 -0700</description>
+      <name>One very happy squash</name>
+      <description>Sun, Oct 04 2020</description>
       <styleUrl>#icon-1899-0288D1</styleUrl>
       <Point>
         <coordinates>
@@ -263,8 +263,8 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>mysterious circle in front yard</name>
-      <description>Tue, 8 Dec 2020 12:18:51 -0800</description>
+      <name>Mysterious circle in front yard</name>
+      <description>Tue, Dec 08 2020</description>
       <styleUrl>#icon-1899-0288D1</styleUrl>
       <Point>
         <coordinates>
@@ -273,7 +273,7 @@
     </Placemark>
     <Placemark>
       <name>132</name>
-      <description>Fri, 5 Jun 2020 10:22:42 -0700</description>
+      <description>Fri, Jun 05 2020</description>
       <styleUrl>#icon-1899-0288D1</styleUrl>
       <Point>
         <coordinates>
@@ -282,7 +282,7 @@
     </Placemark>
     <Placemark>
       <name>Blocked fire hydrant</name>
-      <description>Sat, 17 Oct 2020 09:30:51 -0700</description>
+      <description>Sat, Oct 17 2020</description>
       <styleUrl>#icon-1899-0288D1</styleUrl>
       <Point>
         <coordinates>
@@ -290,8 +290,8 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>yes the air has cleared Whats in this garage</name>
-      <description>Thu, 17 Sep 2020 15:46:02 -0700</description>
+      <name>Yes the air has cleared Whats in this garage</name>
+      <description>Thu, Sep 17 2020</description>
       <styleUrl>#icon-1899-0288D1</styleUrl>
       <Point>
         <coordinates>
@@ -300,7 +300,7 @@
     </Placemark>
     <Placemark>
       <name>Wall obougainvillea</name>
-      <description>Fri, 10 Jul 2020 09:18:54 -0700</description>
+      <description>Fri, Jul 10 2020</description>
       <styleUrl>#icon-1899-0288D1</styleUrl>
       <Point>
         <coordinates>
@@ -308,8 +308,8 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>trees  gnomes</name>
-      <description>Sat, 12 Dec 2020 10:55:39 -0800</description>
+      <name>Trees gnomes</name>
+      <description>Sat, Dec 12 2020</description>
       <styleUrl>#icon-1899-0288D1</styleUrl>
       <Point>
         <coordinates>
@@ -318,7 +318,7 @@
     </Placemark>
     <Placemark>
       <name>Making sure no one trips over their Xmas lights</name>
-      <description>Thu, 24 Dec 2020 11:44:40 -0800</description>
+      <description>Thu, Dec 24 2020</description>
       <styleUrl>#icon-1899-0288D1</styleUrl>
       <Point>
         <coordinates>
@@ -326,8 +326,8 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>orchestra o wind chimes</name>
-      <description>Wed, 26 Aug 2020 09:00:31 -0700</description>
+      <name>Orchestra o wind chimes</name>
+      <description>Wed, Aug 26 2020</description>
       <styleUrl>#icon-1899-0288D1</styleUrl>
       <Point>
         <coordinates>
@@ -336,7 +336,7 @@
     </Placemark>
     <Placemark>
       <name>157</name>
-      <description>Sun, 2 Aug 2020 11:15:23 -0700</description>
+      <description>Sun, Aug 02 2020</description>
       <styleUrl>#icon-1899-0288D1</styleUrl>
       <Point>
         <coordinates>
@@ -345,7 +345,7 @@
     </Placemark>
     <Placemark>
       <name>Drive much</name>
-      <description>Wed, 15 Jul 2020 12:04:19 -0700</description>
+      <description>Wed, Jul 15 2020</description>
       <styleUrl>#icon-1899-0288D1</styleUrl>
       <Point>
         <coordinates>
@@ -354,7 +354,7 @@
     </Placemark>
     <Placemark>
       <name>Lilies seen on todays walk</name>
-      <description>Sat, 30 May 2020 12:47:20 -0700</description>
+      <description>Sat, May 30 2020</description>
       <styleUrl>#icon-1899-0288D1</styleUrl>
       <Point>
         <coordinates>
@@ -363,7 +363,7 @@
     </Placemark>
     <Placemark>
       <name>Seen and heard on todays walk dieselpowered phone equipment</name>
-      <description>Mon, 26 Oct 2020 14:25:35 -0700</description>
+      <description>Mon, Oct 26 2020</description>
       <styleUrl>#icon-1899-0288D1</styleUrl>
       <Point>
         <coordinates>
@@ -372,7 +372,7 @@
     </Placemark>
     <Placemark>
       <name>Concrete damage from rain runoff</name>
-      <description>Sun, 29 Nov 2020 11:38:28 -0800</description>
+      <description>Sun, Nov 29 2020</description>
       <styleUrl>#icon-1899-0288D1</styleUrl>
       <Point>
         <coordinates>
@@ -380,8 +380,8 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>small painted rocks</name>
-      <description>Sat, 21 Nov 2020 11:19:22 -0800</description>
+      <name>Small painted rocks</name>
+      <description>Sat, Nov 21 2020</description>
       <styleUrl>#icon-1899-0288D1</styleUrl>
       <Point>
         <coordinates>
@@ -389,8 +389,8 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>teriya kid inner</name>
-      <description>Mon, 17 Aug 2020 09:39:15 -0700</description>
+      <name>Teriya kid inner</name>
+      <description>Mon, Aug 17 2020</description>
       <styleUrl>#icon-1899-0288D1</styleUrl>
       <Point>
         <coordinates>
@@ -398,8 +398,8 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>various species of Christmas tree</name>
-      <description>Wed, 16 Dec 2020 11:56:15 -0800</description>
+      <name>Various species of Christmas tree</name>
+      <description>Wed, Dec 16 2020</description>
       <styleUrl>#icon-1899-0288D1</styleUrl>
       <Point>
         <coordinates>
@@ -408,7 +408,7 @@
     </Placemark>
     <Placemark>
       <name>187</name>
-      <description>Fri, 17 Jul 2020 11:40:55 -0700</description>
+      <description>Fri, Jul 17 2020</description>
       <styleUrl>#icon-1899-0288D1</styleUrl>
       <Point>
         <coordinates>
@@ -417,7 +417,7 @@
     </Placemark>
     <Placemark>
       <name>Mad Ma xin the neighborhood</name>
-      <description>Fri, 30 Oct 2020 08:46:58 -0700</description>
+      <description>Fri, Oct 30 2020</description>
       <styleUrl>#icon-1899-0288D1</styleUrl>
       <Point>
         <coordinates>
@@ -425,8 +425,8 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>twotoned fruit</name>
-      <description>Sat, 26 Sep 2020 11:19:54 -0700</description>
+      <name>Twotoned fruit</name>
+      <description>Sat, Sep 26 2020</description>
       <styleUrl>#icon-1899-0288D1</styleUrl>
       <Point>
         <coordinates>
@@ -434,8 +434,8 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>Smokey the Bear  car decal</name>
-      <description>Wed, 4 Nov 2020 10:20:06 -0800</description>
+      <name>Smokey the Bear car decal</name>
+      <description>Wed, Nov 04 2020</description>
       <styleUrl>#icon-1899-0288D1</styleUrl>
       <Point>
         <coordinates>
@@ -443,8 +443,8 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>ceramic yard sculpture</name>
-      <description>Mon, 10 Aug 2020 14:21:03 -0700</description>
+      <name>Ceramic yard sculpture</name>
+      <description>Mon, Aug 10 2020</description>
       <styleUrl>#icon-1899-0288D1</styleUrl>
       <Point>
         <coordinates>
@@ -453,7 +453,7 @@
     </Placemark>
     <Placemark>
       <name>Get out and vote poster</name>
-      <description>Sat, 25 Jul 2020 13:31:07 -0700</description>
+      <description>Sat, Jul 25 2020</description>
       <styleUrl>#icon-1899-0288D1</styleUrl>
       <Point>
         <coordinates>
@@ -461,8 +461,8 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>tropicalthemed family room garage actually</name>
-      <description>Wed, 8 Jul 2020 11:12:20 -0700</description>
+      <name>Tropicalthemed family room garage actually</name>
+      <description>Wed, Jul 08 2020</description>
       <styleUrl>#icon-1899-0288D1</styleUrl>
       <Point>
         <coordinates>
@@ -471,7 +471,7 @@
     </Placemark>
     <Placemark>
       <name>Strange car decal</name>
-      <description>Sun, 27 Dec 2020 12:30:04 -0800</description>
+      <description>Sun, Dec 27 2020</description>
       <styleUrl>#icon-1899-0288D1</styleUrl>
       <Point>
         <coordinates>
@@ -480,7 +480,7 @@
     </Placemark>
     <Placemark>
       <name>Seen and heard on todays walk</name>
-      <description>Tue, 16 Jun 2020 10:56:37 -0700</description>
+      <description>Tue, Jun 16 2020</description>
       <styleUrl>#icon-1899-0288D1</styleUrl>
       <Point>
         <coordinates>
@@ -488,8 +488,8 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>cobblestones</name>
-      <description>Fri, 19 Jun 2020 10:41:54 -0700</description>
+      <name>Cobblestones</name>
+      <description>Fri, Jun 19 2020</description>
       <styleUrl>#icon-1899-0288D1</styleUrl>
       <Point>
         <coordinates>
@@ -497,8 +497,8 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>cobblestones 222</name>
-      <description>Fri, 19 Jun 2020 10:41:54 -0700</description>
+      <name>Cobblestones 222</name>
+      <description>Fri, Jun 19 2020</description>
       <styleUrl>#icon-1899-0288D1</styleUrl>
       <Point>
         <coordinates>
@@ -506,8 +506,8 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>homemade election sign</name>
-      <description>Mon, 21 Sep 2020 14:13:31 -0700</description>
+      <name>Homemade election sign</name>
+      <description>Mon, Sep 21 2020</description>
       <styleUrl>#icon-1899-0288D1</styleUrl>
       <Point>
         <coordinates>
@@ -515,8 +515,8 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>heavyduty drainage system</name>
-      <description>Mon, 27 Jul 2020 10:34:26 -0700</description>
+      <name>Heavyduty drainage system</name>
+      <description>Mon, Jul 27 2020</description>
       <styleUrl>#icon-1899-0288D1</styleUrl>
       <Point>
         <coordinates>
@@ -524,8 +524,8 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>interesting parking job</name>
-      <description>Sat, 27 Jun 2020 12:23:40 -0700</description>
+      <name>Interesting parking job</name>
+      <description>Sat, Jun 27 2020</description>
       <styleUrl>#icon-1899-0288D1</styleUrl>
       <Point>
         <coordinates>
@@ -534,7 +534,7 @@
     </Placemark>
     <Placemark>
       <name>Little Brother</name>
-      <description>Sat, 10 Oct 2020 15:57:19 -0700</description>
+      <description>Sat, Oct 10 2020</description>
       <styleUrl>#icon-1899-0288D1</styleUrl>
       <Point>
         <coordinates>
@@ -543,7 +543,7 @@
     </Placemark>
     <Placemark>
       <name>Yard seen on my walk today</name>
-      <description>Sat, 9 May 2020 09:47:11 -0700</description>
+      <description>Sat, May 09 2020</description>
       <styleUrl>#icon-1899-0288D1</styleUrl>
       <Point>
         <coordinates>
@@ -552,7 +552,7 @@
     </Placemark>
     <Placemark>
       <name>Socially distanced Halloween candy delivery</name>
-      <description>Sat, 31 Oct 2020 07:29:09 -0700</description>
+      <description>Sat, Oct 31 2020</description>
       <styleUrl>#icon-1899-0288D1</styleUrl>
       <Point>
         <coordinates>
@@ -560,8 +560,8 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>solar panel windshield sun screen</name>
-      <description>Mon, 18 May 2020 14:39:06 -0700</description>
+      <name>Solar panel windshield sun screen</name>
+      <description>Mon, May 18 2020</description>
       <styleUrl>#icon-1899-0288D1</styleUrl>
       <Point>
         <coordinates>
@@ -570,7 +570,7 @@
     </Placemark>
     <Placemark>
       <name>The slate looked nice in the driveway plans but</name>
-      <description>Thu, 15 Oct 2020 09:20:35 -0700</description>
+      <description>Thu, Oct 15 2020</description>
       <styleUrl>#icon-1899-0288D1</styleUrl>
       <Point>
         <coordinates>
@@ -579,7 +579,7 @@
     </Placemark>
     <Placemark>
       <name>Nothing says Christmas like a new telephone pole</name>
-      <description>Mon, 14 Dec 2020 11:05:23 -0800</description>
+      <description>Mon, Dec 14 2020</description>
       <styleUrl>#icon-1899-0288D1</styleUrl>
       <Point>
         <coordinates>
@@ -587,8 +587,8 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>election sign in car window</name>
-      <description>Sun, 25 Oct 2020 06:48:29 -0700</description>
+      <name>Election sign in car window</name>
+      <description>Sun, Oct 25 2020</description>
       <styleUrl>#icon-1899-0288D1</styleUrl>
       <Point>
         <coordinates>
@@ -597,7 +597,7 @@
     </Placemark>
     <Placemark>
       <name>Cannibal pumpkin</name>
-      <description>Mon, 2 Nov 2020 09:51:55 -0800</description>
+      <description>Mon, Nov 02 2020</description>
       <styleUrl>#icon-1899-0288D1</styleUrl>
       <Point>
         <coordinates>
@@ -605,8 +605,8 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>palm and shadow</name>
-      <description>Thu, 23 Jul 2020 15:33:40 -0700</description>
+      <name>Palm and shadow</name>
+      <description>Thu, Jul 23 2020</description>
       <styleUrl>#icon-1899-0288D1</styleUrl>
       <Point>
         <coordinates>
@@ -614,8 +614,8 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>yellow mushroom</name>
-      <description>Tue, 6 Oct 2020 14:04:47 -0700</description>
+      <name>Yellow mushroom</name>
+      <description>Tue, Oct 06 2020</description>
       <styleUrl>#icon-1899-0288D1</styleUrl>
       <Point>
         <coordinates>
@@ -623,8 +623,8 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>yellow mushroom 279</name>
-      <description>Tue, 6 Oct 2020 14:04:47 -0700</description>
+      <name>Yellow mushroom 279</name>
+      <description>Tue, Oct 06 2020</description>
       <styleUrl>#icon-1899-0288D1</styleUrl>
       <Point>
         <coordinates>
@@ -633,7 +633,7 @@
     </Placemark>
     <Placemark>
       <name>Accident aftermath</name>
-      <description>Mon, 19 Oct 2020 17:01:49 -0700</description>
+      <description>Mon, Oct 19 2020</description>
       <styleUrl>#icon-1899-0288D1</styleUrl>
       <Point>
         <coordinates>
@@ -642,7 +642,7 @@
     </Placemark>
     <Placemark>
       <name>Accident aftermath 281</name>
-      <description>Mon, 19 Oct 2020 17:01:49 -0700</description>
+      <description>Mon, Oct 19 2020</description>
       <styleUrl>#icon-1899-0288D1</styleUrl>
       <Point>
         <coordinates>
@@ -650,8 +650,8 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>rainbow yarn bomb</name>
-      <description>Tue, 30 Jun 2020 14:20:09 -0700</description>
+      <name>Rainbow yarn bomb</name>
+      <description>Tue, Jun 30 2020</description>
       <styleUrl>#icon-1899-0288D1</styleUrl>
       <Point>
         <coordinates>
@@ -659,8 +659,8 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>way</name>
-      <description>Mon, 22 Jun 2020 10:29:46 -0700</description>
+      <name>Way</name>
+      <description>Mon, Jun 22 2020</description>
       <styleUrl>#icon-1899-0288D1</styleUrl>
       <Point>
         <coordinates>
@@ -668,8 +668,8 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>way 288</name>
-      <description>Mon, 22 Jun 2020 10:29:46 -0700</description>
+      <name>Way 288</name>
+      <description>Mon, Jun 22 2020</description>
       <styleUrl>#icon-1899-0288D1</styleUrl>
       <Point>
         <coordinates>
@@ -678,7 +678,7 @@
     </Placemark>
     <Placemark>
       <name>Dumpster in a bag</name>
-      <description>Mon, 9 Nov 2020 14:04:04 -0800</description>
+      <description>Mon, Nov 09 2020</description>
       <styleUrl>#icon-1899-0288D1</styleUrl>
       <Point>
         <coordinates>
@@ -687,7 +687,7 @@
     </Placemark>
     <Placemark>
       <name>Sign seen on todays walk</name>
-      <description>Wed, 3 Jun 2020 10:26:09 -0700</description>
+      <description>Wed, Jun 03 2020</description>
       <styleUrl>#icon-1899-0288D1</styleUrl>
       <Point>
         <coordinates>
@@ -695,8 +695,8 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>caution tape technique</name>
-      <description>Thu, 8 Oct 2020 11:55:27 -0700</description>
+      <name>Caution tape technique</name>
+      <description>Thu, Oct 08 2020</description>
       <styleUrl>#icon-1899-0288D1</styleUrl>
       <Point>
         <coordinates>
@@ -704,8 +704,8 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>caution tape technique 300</name>
-      <description>Thu, 8 Oct 2020 11:55:27 -0700</description>
+      <name>Caution tape technique 300</name>
+      <description>Thu, Oct 08 2020</description>
       <styleUrl>#icon-1899-0288D1</styleUrl>
       <Point>
         <coordinates>
@@ -713,8 +713,8 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>neighborly sign</name>
-      <description>Wed, 12 Aug 2020 12:05:34 -0700</description>
+      <name>Neighborly sign</name>
+      <description>Wed, Aug 12 2020</description>
       <styleUrl>#icon-1899-0288D1</styleUrl>
       <Point>
         <coordinates>
@@ -722,8 +722,8 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>holiday  lawn decoration</name>
-      <description>Sun, 20 Dec 2020 11:49:05 -0800</description>
+      <name>Holiday lawn decoration</name>
+      <description>Sun, Dec 20 2020</description>
       <styleUrl>#icon-1899-0288D1</styleUrl>
       <Point>
         <coordinates>
@@ -731,8 +731,8 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>yet another way to package alcohol</name>
-      <description>Fri, 12 Jun 2020 07:55:41 -0700</description>
+      <name>Yet another way to package alcohol</name>
+      <description>Fri, Jun 12 2020</description>
       <styleUrl>#icon-1899-0288D1</styleUrl>
       <Point>
         <coordinates>
@@ -741,7 +741,7 @@
     </Placemark>
     <Placemark>
       <name>Why is this curb white</name>
-      <description>Wed, 11 Nov 2020 13:59:04 -0800</description>
+      <description>Wed, Nov 11 2020</description>
       <styleUrl>#icon-1899-0288D1</styleUrl>
       <Point>
         <coordinates>
@@ -750,7 +750,7 @@
     </Placemark>
     <Placemark>
       <name>California or Texas</name>
-      <description>Tue, 15 Dec 2020 09:15:37 -0800</description>
+      <description>Tue, Dec 15 2020</description>
       <styleUrl>#icon-1899-0288D1</styleUrl>
       <Point>
         <coordinates>
@@ -758,8 +758,8 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>missing cat sign</name>
-      <description>Tue, 4 Aug 2020 12:36:41 -0700</description>
+      <name>Missing cat sign</name>
+      <description>Tue, Aug 04 2020</description>
       <styleUrl>#icon-1899-0288D1</styleUrl>
       <Point>
         <coordinates>
@@ -768,7 +768,7 @@
     </Placemark>
     <Placemark>
       <name>Think Vote</name>
-      <description>Mon, 12 Oct 2020 14:09:41 -0700</description>
+      <description>Mon, Oct 12 2020</description>
       <styleUrl>#icon-1899-0288D1</styleUrl>
       <Point>
         <coordinates>
@@ -776,8 +776,8 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>hashtag balloon</name>
-      <description>Sat, 19 Sep 2020 10:13:34 -0700</description>
+      <name>Hashtag balloon</name>
+      <description>Sat, Sep 19 2020</description>
       <styleUrl>#icon-1899-0288D1</styleUrl>
       <Point>
         <coordinates>
@@ -786,7 +786,7 @@
     </Placemark>
     <Placemark>
       <name>What year is it</name>
-      <description>Mon, 1 Jun 2020 12:22:26 -0700</description>
+      <description>Mon, Jun 01 2020</description>
       <styleUrl>#icon-1899-0288D1</styleUrl>
       <Point>
         <coordinates>
@@ -795,7 +795,7 @@
     </Placemark>
     <Placemark>
       <name>Climate change skeleton</name>
-      <description>Tue, 3 Nov 2020 09:50:11 -0800</description>
+      <description>Tue, Nov 03 2020</description>
       <styleUrl>#icon-1899-0288D1</styleUrl>
       <Point>
         <coordinates>
@@ -804,7 +804,7 @@
     </Placemark>
     <Placemark>
       <name>Naked Ladies</name>
-      <description>Sat, 8 Aug 2020 08:43:34 -0700</description>
+      <description>Sat, Aug 08 2020</description>
       <styleUrl>#icon-1899-0288D1</styleUrl>
       <Point>
         <coordinates>
@@ -812,8 +812,8 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>Dual decorative  doorknockers</name>
-      <description>Wed, 29 Jul 2020 11:36:57 -0700</description>
+      <name>Dual decorative doorknockers</name>
+      <description>Wed, Jul 29 2020</description>
       <styleUrl>#icon-1899-0288D1</styleUrl>
       <Point>
         <coordinates>
@@ -821,8 +821,8 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>election sign in a car window</name>
-      <description>Sat, 24 Oct 2020 11:36:24 -0700</description>
+      <name>Election sign in a car window</name>
+      <description>Sat, Oct 24 2020</description>
       <styleUrl>#icon-1899-0288D1</styleUrl>
       <Point>
         <coordinates>

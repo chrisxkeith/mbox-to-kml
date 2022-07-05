@@ -2,11 +2,13 @@ import mailbox
 import time
 import base64
 import re
+from datetime import datetime
 
 class mboxToKml:
     def run(self):
         start = time.time()
-        for self.year in ['2020', '2021', '2022']: # '2020-10-emails']: # 
+        # for self.year in ['2020-10-emails']:
+        for self.year in ['2020', '2021', '2022']: 
             self.oneYear()
         self.print_elapsed_time('Full run', start)
 
@@ -39,10 +41,10 @@ class mboxToKml:
                                     else:
                                         fname = fname.replace('.png', '') + ' ' + str(i) + '.png'
                                 if extractPng:
-                                    strt = time.time()
-                                    self.convert_to_png(fname, thePart)
-                                    secs = round(time.time() - strt, 0)
-                                    print(str(secs) + ': ' + fname)
+                                    # strt = time.time()
+                                    # self.convert_to_png(fname, thePart)
+                                    # secs = round(time.time() - strt, 0)
+                                    # print(str(secs) + ': ' + fname)
                                     filesWritten[fname] = { 'subject' : message['subject'], 'date' : message['date'], 'pngData' : self.extract_png_data(thePart)}
                         else:
                             print('Message# : ' + str(i) + ': unhandled: ' + part._default_type)
@@ -57,9 +59,16 @@ class mboxToKml:
 <kml xmlns="http://www.opengis.net/kml/2.2">\n\
   <Document>\n'
         for fn, headers in fnames.items():
+            orig_date_str = headers['date']
+            if orig_date_str[6] == ' ':
+                orig_date_str = orig_date_str[:5] + '0' + orig_date_str[5:]
+            date_time_obj = datetime.strptime(orig_date_str, '%a, %d %b %Y %H:%M:%S %z')
+            date_str = datetime.strftime(date_time_obj, '%a, %b %d %Y')
+            fname = fn.replace('.png', '').replace('  ', ' ')
+            fname = fname[0].upper() + fname[1:]
             kml = kml + ('    <Placemark>\n' +
-'      <name>' + fn.replace('.png', '') + '</name>\n' +
-'      <description>' + headers['date'] + '</description>\n' +
+'      <name>' + fname + '</name>\n' +
+'      <description>' + date_str + '</description>\n' +
 '      <styleUrl>#icon-1899-0288D1</styleUrl>\n' +
 '      <Point>\n' +
 '        <coordinates>\n' +
@@ -68,7 +77,7 @@ class mboxToKml:
 '    </Placemark>\n')
         kml = kml + ('  </Document>\n' +
 '</kml>')
-        g = open(self.year + '.kml', "w")
+        g = open(self.year + '.xml', "w")
         g.write(kml)
     
     def print_elapsed_time(self, msg, start):

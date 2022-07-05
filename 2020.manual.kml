@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark>
+      <name>Bobblehead Mariachi</name>
+      <description>Tue, 1 Dec 2020 12:05:11 -0800</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.134720, 37.736675
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
