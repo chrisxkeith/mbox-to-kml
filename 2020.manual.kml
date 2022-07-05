@@ -3,11 +3,66 @@
   <Document>
     <Placemark>
       <name>Bobblehead Mariachi</name>
-      <description>Tue, 1 Dec 2020 12:05:11 -0800</description>
+      <description><![CDATA[<img src="https://doc-08-8g-mymaps.googleusercontent.com/untrusted/hostedimage/cifb3g66ovtk93kt9liimv2qb0/a9cu71bvogss0b5bfemsrkrj10/1657049403750/CdbrxLtdhM62TwVVfTgW6A8VV2yTj1o8/14421356120197726811/5AIsG_vZ4lJqFTH3qYgYtpumMS3BsxC6qzYXTkBTpGdsahGEZuBZ5Blb66Isf-Pu0wVrI8ssZCCb4i28qf5A2OV8O_ls6ei6Kh-f8NwRIpGXJKLH44LM1JiUX_GlwEJDplnbqmV22sshCD85SwkSc5GbMyRnN65FyueukvQUj727ej6p5tGc-J0B-ANc7Vfs06xJy2g?session=0&fife" height="200" width="auto" /><br><br>Tue, 1 Dec 2020 12:05:11 -0800]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-08-8g-mymaps.googleusercontent.com/untrusted/hostedimage/cifb3g66ovtk93kt9liimv2qb0/a9cu71bvogss0b5bfemsrkrj10/1657049403750/CdbrxLtdhM62TwVVfTgW6A8VV2yTj1o8/14421356120197726811/5AIsG_vZ4lJqFTH3qYgYtpumMS3BsxC6qzYXTkBTpGdsahGEZuBZ5Blb66Isf-Pu0wVrI8ssZCCb4i28qf5A2OV8O_ls6ei6Kh-f8NwRIpGXJKLH44LM1JiUX_GlwEJDplnbqmV22sshCD85SwkSc5GbMyRnN65FyueukvQUj727ej6p5tGc-J0B-ANc7Vfs06xJy2g?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -122.13472,37.736675,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Succulent in tree</name>
+      <description>Sat, Aug 15 2020</description>
       <styleUrl>#icon-1899-0288D1</styleUrl>
       <Point>
         <coordinates>
-          -122.134720, 37.736675
+          -122.130827, 37.734403
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Rude sign</name>
+      <description>Sat, Sep 05 2020</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.132093,37.734654
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>California Gold</name>
+      <description>Mon, Aug 03 2020</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.131339, 37.734455
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Dont want to clutter up your bumper</name>
+      <description>Sat, Jul 04 2020</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.139298, 37.736282
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Way to nowhere</name>
+      <description>Wed, Jun 24 2020</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.131032, 37.735168
         </coordinates>
       </Point>
     </Placemark>
