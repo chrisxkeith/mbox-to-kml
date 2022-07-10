@@ -55,6 +55,7 @@ class mboxToKml:
         self.write_kml(filesWritten)
 
     def write_kml(self, fnames):
+        #       <styleUrl>#icon-1899-FF5252</styleUrl> ?
         kml = '<?xml version="1.0" encoding="UTF-8"?>\n\
 <kml xmlns="http://www.opengis.net/kml/2.2">\n\
   <Document>\n'
