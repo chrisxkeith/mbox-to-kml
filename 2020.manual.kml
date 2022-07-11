@@ -10,11 +10,31 @@
       </Point>
     </Placemark>
     <Placemark>
+      <name>Minimal Christmas creche</name>
+      <description>Tue, Dec 22 2020</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.137092, 37.736009
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>Succulent in tree</name>
       <description>Sat, Aug 15 2020</description>
       <Point>
         <coordinates>
           -122.130827, 37.734403
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Twig or insect</name>
+      <description>Sun, Dec 06 2020</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.151483, 37.738499
         </coordinates>
       </Point>
     </Placemark>
@@ -51,6 +71,678 @@
       <Point>
         <coordinates>
           -122.131032, 37.735168
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Upside down statuary</name>
+      <description>Fri, Nov 27 2020</description>
+      <Point>
+        <coordinates>
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conserving water or not</name>
+      <description>Mon, Sep 28 2020</description>
+      <Point>
+        <coordinates>
+          -122.136725, 37.736166
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>A new diner delicacy</name>
+      <description>Mon, Aug 17 2020</description>
+      <Point>
+        <coordinates>
+          -122.144380, 37.738917
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Evidence of yet another accident</name>
+      <description>Tue, Dec 29 2020</description>
+      <Point>
+        <coordinates>
+          -122.140566, 37.737621
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Evidence of yet another accident 50</name>
+      <description>Tue, Dec 29 2020</description>
+      <Point>
+        <coordinates>
+          -122.140566, 37.737621
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Stump removal too hard</name>
+      <description>Sun, Jul 12 2020</description>
+      <Point>
+        <coordinates>
+          -122.151330, 37.737657
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>No Parking sign</name>
+      <description>Sun, Sep 13 2020</description>
+      <Point>
+        <coordinates>
+          -122.138128, 37.736287
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sidewalk chalk art</name>
+      <description>Mon, Jun 08 2020</description>
+      <Point>
+        <coordinates>
+          -122.137469, 37.736247
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tree remnant</name>
+      <description>Tue, Nov 17 2020</description>
+      <Point>
+        <coordinates>
+          -122.144903, 37.739539
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Nice sidewalk chalk sentiment seen on todays walk</name>
+      <description>Mon, Apr 27 2020</description>
+      <Point>
+        <coordinates>
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Invasion of the Tiny Gnomes</name>
+      <description>Wed, Jun 10 2020</description>
+      <Point>
+        <coordinates>
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cannibal jack olantern</name>
+      <description>Mon, Nov 02 2020</description>
+      <Point>
+        <coordinates>
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Problem with moles</name>
+      <description>Mon, Sep 07 2020</description>
+      <Point>
+        <coordinates>
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Garden gnome nightlight</name>
+      <description>Thu, Sep 03 2020</description>
+      <Point>
+        <coordinates>
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Large inflated reindeer</name>
+      <description>Fri, Dec 18 2020</description>
+      <Point>
+        <coordinates>
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>An excess of rubber duckies</name>
+      <description>Tue, Jul 28 2020</description>
+      <Point>
+        <coordinates>
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Glass collection</name>
+      <description>Mon, Jul 06 2020</description>
+      <Point>
+        <coordinates>
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Short street long address</name>
+      <description>Sat, Nov 07 2020</description>
+      <Point>
+        <coordinates>
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Short street long address 117</name>
+      <description>Sat, Nov 07 2020</description>
+      <Point>
+        <coordinates>
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>One very happy squash</name>
+      <description>Sun, Oct 04 2020</description>
+      <Point>
+        <coordinates>
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mysterious circle in front yard</name>
+      <description>Tue, Dec 08 2020</description>
+      <Point>
+        <coordinates>
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>132</name>
+      <description>Fri, Jun 05 2020</description>
+      <Point>
+        <coordinates>
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Blocked fire hydrant</name>
+      <description>Sat, Oct 17 2020</description>
+      <Point>
+        <coordinates>
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Yes the air has cleared Whats in this garage</name>
+      <description>Thu, Sep 17 2020</description>
+      <Point>
+        <coordinates>
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Wall obougainvillea</name>
+      <description>Fri, Jul 10 2020</description>
+      <Point>
+        <coordinates>
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Trees gnomes</name>
+      <description>Sat, Dec 12 2020</description>
+      <Point>
+        <coordinates>
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Making sure no one trips over their Xmas lights</name>
+      <description>Thu, Dec 24 2020</description>
+      <Point>
+        <coordinates>
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Orchestra o wind chimes</name>
+      <description>Wed, Aug 26 2020</description>
+      <Point>
+        <coordinates>
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>157</name>
+      <description>Sun, Aug 02 2020</description>
+      <Point>
+        <coordinates>
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Drive much</name>
+      <description>Wed, Jul 15 2020</description>
+      <Point>
+        <coordinates>
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lilies seen on todays walk</name>
+      <description>Sat, May 30 2020</description>
+      <Point>
+        <coordinates>
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Seen and heard on todays walk dieselpowered phone equipment</name>
+      <description>Mon, Oct 26 2020</description>
+      <Point>
+        <coordinates>
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Concrete damage from rain runoff</name>
+      <description>Sun, Nov 29 2020</description>
+      <Point>
+        <coordinates>
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Small painted rocks</name>
+      <description>Sat, Nov 21 2020</description>
+      <Point>
+        <coordinates>
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Teriya kid inner</name>
+      <description>Mon, Aug 17 2020</description>
+      <Point>
+        <coordinates>
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Various species of Christmas tree</name>
+      <description>Wed, Dec 16 2020</description>
+      <Point>
+        <coordinates>
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>187</name>
+      <description>Fri, Jul 17 2020</description>
+      <Point>
+        <coordinates>
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mad Ma xin the neighborhood</name>
+      <description>Fri, Oct 30 2020</description>
+      <Point>
+        <coordinates>
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Twotoned fruit</name>
+      <description>Sat, Sep 26 2020</description>
+      <Point>
+        <coordinates>
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Smokey the Bear car decal</name>
+      <description>Wed, Nov 04 2020</description>
+      <Point>
+        <coordinates>
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ceramic yard sculpture</name>
+      <description>Mon, Aug 10 2020</description>
+      <Point>
+        <coordinates>
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Get out and vote poster</name>
+      <description>Sat, Jul 25 2020</description>
+      <Point>
+        <coordinates>
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tropicalthemed family room garage actually</name>
+      <description>Wed, Jul 08 2020</description>
+      <Point>
+        <coordinates>
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Strange car decal</name>
+      <description>Sun, Dec 27 2020</description>
+      <Point>
+        <coordinates>
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Seen and heard on todays walk</name>
+      <description>Tue, Jun 16 2020</description>
+      <Point>
+        <coordinates>
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cobblestones</name>
+      <description>Fri, Jun 19 2020</description>
+      <Point>
+        <coordinates>
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cobblestones 222</name>
+      <description>Fri, Jun 19 2020</description>
+      <Point>
+        <coordinates>
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Homemade election sign</name>
+      <description>Mon, Sep 21 2020</description>
+      <Point>
+        <coordinates>
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Heavyduty drainage system</name>
+      <description>Mon, Jul 27 2020</description>
+      <Point>
+        <coordinates>
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Interesting parking job</name>
+      <description>Sat, Jun 27 2020</description>
+      <Point>
+        <coordinates>
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Little Brother</name>
+      <description>Sat, Oct 10 2020</description>
+      <Point>
+        <coordinates>
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Yard seen on my walk today</name>
+      <description>Sat, May 09 2020</description>
+      <Point>
+        <coordinates>
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Socially distanced Halloween candy delivery</name>
+      <description>Sat, Oct 31 2020</description>
+      <Point>
+        <coordinates>
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Solar panel windshield sun screen</name>
+      <description>Mon, May 18 2020</description>
+      <Point>
+        <coordinates>
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>The slate looked nice in the driveway plans but</name>
+      <description>Thu, Oct 15 2020</description>
+      <Point>
+        <coordinates>
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Nothing says Christmas like a new telephone pole</name>
+      <description>Mon, Dec 14 2020</description>
+      <Point>
+        <coordinates>
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Election sign in car window</name>
+      <description>Sun, Oct 25 2020</description>
+      <Point>
+        <coordinates>
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cannibal pumpkin</name>
+      <description>Mon, Nov 02 2020</description>
+      <Point>
+        <coordinates>
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Palm and shadow</name>
+      <description>Thu, Jul 23 2020</description>
+      <Point>
+        <coordinates>
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Yellow mushroom</name>
+      <description>Tue, Oct 06 2020</description>
+      <Point>
+        <coordinates>
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Yellow mushroom 279</name>
+      <description>Tue, Oct 06 2020</description>
+      <Point>
+        <coordinates>
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Accident aftermath</name>
+      <description>Mon, Oct 19 2020</description>
+      <Point>
+        <coordinates>
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Accident aftermath 281</name>
+      <description>Mon, Oct 19 2020</description>
+      <Point>
+        <coordinates>
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Rainbow yarn bomb</name>
+      <description>Tue, Jun 30 2020</description>
+      <Point>
+        <coordinates>
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Way</name>
+      <description>Mon, Jun 22 2020</description>
+      <Point>
+        <coordinates>
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Way 288</name>
+      <description>Mon, Jun 22 2020</description>
+      <Point>
+        <coordinates>
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Dumpster in a bag</name>
+      <description>Mon, Nov 09 2020</description>
+      <Point>
+        <coordinates>
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sign seen on todays walk</name>
+      <description>Wed, Jun 03 2020</description>
+      <Point>
+        <coordinates>
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Caution tape technique</name>
+      <description>Thu, Oct 08 2020</description>
+      <Point>
+        <coordinates>
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Caution tape technique 300</name>
+      <description>Thu, Oct 08 2020</description>
+      <Point>
+        <coordinates>
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Neighborly sign</name>
+      <description>Wed, Aug 12 2020</description>
+      <Point>
+        <coordinates>
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Holiday lawn decoration</name>
+      <description>Sun, Dec 20 2020</description>
+      <Point>
+        <coordinates>
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Yet another way to package alcohol</name>
+      <description>Fri, Jun 12 2020</description>
+      <Point>
+        <coordinates>
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Why is this curb white</name>
+      <description>Wed, Nov 11 2020</description>
+      <Point>
+        <coordinates>
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>California or Texas</name>
+      <description>Tue, Dec 15 2020</description>
+      <Point>
+        <coordinates>
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Missing cat sign</name>
+      <description>Tue, Aug 04 2020</description>
+      <Point>
+        <coordinates>
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Think Vote</name>
+      <description>Mon, Oct 12 2020</description>
+      <Point>
+        <coordinates>
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hashtag balloon</name>
+      <description>Sat, Sep 19 2020</description>
+      <Point>
+        <coordinates>
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>What year is it</name>
+      <description>Mon, Jun 01 2020</description>
+      <Point>
+        <coordinates>
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Climate change skeleton</name>
+      <description>Tue, Nov 03 2020</description>
+      <Point>
+        <coordinates>
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Naked Ladies</name>
+      <description>Sat, Aug 08 2020</description>
+      <Point>
+        <coordinates>
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Dual decorative doorknockers</name>
+      <description>Wed, Jul 29 2020</description>
+      <Point>
+        <coordinates>
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Election sign in a car window</name>
+      <description>Sat, Oct 24 2020</description>
+      <Point>
+        <coordinates>
         </coordinates>
       </Point>
     </Placemark>
