@@ -75,14 +75,6 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>Upside down statuary</name>
-      <description>Fri, Nov 27 2020</description>
-      <Point>
-        <coordinates>
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
       <name>Conserving water or not</name>
       <description>Mon, Sep 28 2020</description>
       <Point>
@@ -159,6 +151,7 @@
       <description>Mon, Apr 27 2020</description>
       <Point>
         <coordinates>
+          -122.137615, 37.736278
         </coordinates>
       </Point>
     </Placemark>
@@ -167,14 +160,7 @@
       <description>Wed, Jun 10 2020</description>
       <Point>
         <coordinates>
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Cannibal jack olantern</name>
-      <description>Mon, Nov 02 2020</description>
-      <Point>
-        <coordinates>
+          -122.147301. 37.738759
         </coordinates>
       </Point>
     </Placemark>
@@ -183,22 +169,7 @@
       <description>Mon, Sep 07 2020</description>
       <Point>
         <coordinates>
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Garden gnome nightlight</name>
-      <description>Thu, Sep 03 2020</description>
-      <Point>
-        <coordinates>
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Large inflated reindeer</name>
-      <description>Fri, Dec 18 2020</description>
-      <Point>
-        <coordinates>
+          -122.138298, 37.736286
         </coordinates>
       </Point>
     </Placemark>
@@ -207,6 +178,7 @@
       <description>Tue, Jul 28 2020</description>
       <Point>
         <coordinates>
+          -122.143956, 37.738764
         </coordinates>
       </Point>
     </Placemark>
@@ -215,6 +187,7 @@
       <description>Mon, Jul 06 2020</description>
       <Point>
         <coordinates>
+          -122.132445, 37.734807
         </coordinates>
       </Point>
     </Placemark>
@@ -231,6 +204,7 @@
       <description>Sat, Nov 07 2020</description>
       <Point>
         <coordinates>
+          -122.132403, 37.735963
         </coordinates>
       </Point>
     </Placemark>
@@ -239,6 +213,7 @@
       <description>Sun, Oct 04 2020</description>
       <Point>
         <coordinates>
+          -122.133765, 37.735996
         </coordinates>
       </Point>
     </Placemark>
@@ -247,6 +222,7 @@
       <description>Tue, Dec 08 2020</description>
       <Point>
         <coordinates>
+          -122.133709, 37.735415
         </coordinates>
       </Point>
     </Placemark>
@@ -255,6 +231,7 @@
       <description>Fri, Jun 05 2020</description>
       <Point>
         <coordinates>
+          -122.137462, 37.736253
         </coordinates>
       </Point>
     </Placemark>
@@ -263,14 +240,7 @@
       <description>Sat, Oct 17 2020</description>
       <Point>
         <coordinates>
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Yes the air has cleared Whats in this garage</name>
-      <description>Thu, Sep 17 2020</description>
-      <Point>
-        <coordinates>
+          -122.149804, 37.734017
         </coordinates>
       </Point>
     </Placemark>
@@ -279,6 +249,7 @@
       <description>Fri, Jul 10 2020</description>
       <Point>
         <coordinates>
+          -122.130903, 37.734903
         </coordinates>
       </Point>
     </Placemark>
@@ -287,14 +258,7 @@
       <description>Sat, Dec 12 2020</description>
       <Point>
         <coordinates>
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Making sure no one trips over their Xmas lights</name>
-      <description>Thu, Dec 24 2020</description>
-      <Point>
-        <coordinates>
+          -122.150866, 37.737925
         </coordinates>
       </Point>
     </Placemark>
@@ -303,30 +267,25 @@
       <description>Wed, Aug 26 2020</description>
       <Point>
         <coordinates>
+          -122.137104, 37.736237
         </coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>157</name>
+      <name>Blue house, red sidewalk</name>
       <description>Sun, Aug 02 2020</description>
       <Point>
         <coordinates>
+          -122.137339, 37.736958
         </coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>Drive much</name>
+      <name>Drive much?</name>
       <description>Wed, Jul 15 2020</description>
       <Point>
         <coordinates>
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Lilies seen on todays walk</name>
-      <description>Sat, May 30 2020</description>
-      <Point>
-        <coordinates>
+          -122.138555, 37.736968
         </coordinates>
       </Point>
     </Placemark>
@@ -335,6 +294,7 @@
       <description>Mon, Oct 26 2020</description>
       <Point>
         <coordinates>
+          -122.139639, 37.736927
         </coordinates>
       </Point>
     </Placemark>
@@ -343,6 +303,7 @@
       <description>Sun, Nov 29 2020</description>
       <Point>
         <coordinates>
+          -122.130986, 37.734421
         </coordinates>
       </Point>
     </Placemark>
@@ -351,6 +312,7 @@
       <description>Sat, Nov 21 2020</description>
       <Point>
         <coordinates>
+          -122.137087, 37.736065
         </coordinates>
       </Point>
     </Placemark>
@@ -359,6 +321,7 @@
       <description>Mon, Aug 17 2020</description>
       <Point>
         <coordinates>
+          -122.144411, 37.738908
         </coordinates>
       </Point>
     </Placemark>
@@ -367,22 +330,25 @@
       <description>Wed, Dec 16 2020</description>
       <Point>
         <coordinates>
+          -122.132435, 37.734825
         </coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>187</name>
+      <name>Variously shaped wooden blocks</name>
       <description>Fri, Jul 17 2020</description>
       <Point>
         <coordinates>
+          -122.136352, 37.736703
         </coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>Mad Ma xin the neighborhood</name>
+      <name>Mad Max in the neighborhood</name>
       <description>Fri, Oct 30 2020</description>
       <Point>
         <coordinates>
+          -122.133374, 37.735204
         </coordinates>
       </Point>
     </Placemark>
@@ -391,6 +357,7 @@
       <description>Sat, Sep 26 2020</description>
       <Point>
         <coordinates>
+          -122.147038, 37.738973
         </coordinates>
       </Point>
     </Placemark>
