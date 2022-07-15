@@ -75,6 +75,15 @@
       </Point>
     </Placemark>
     <Placemark>
+      <name>Upside down statuary</name>
+      <description>Fri, Nov 27 2020</description>
+      <Point>
+        <coordinates>
+          -122.149224, 37.738244
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>Conserving water or not</name>
       <description>Mon, Sep 28 2020</description>
       <Point>
