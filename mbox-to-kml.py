@@ -8,7 +8,7 @@ class mboxToKml:
     def run(self):
         start = time.time()
         # for self.year in ['2020-10-emails']:
-        for self.year in ['2020', '2021', '2022']: 
+        for self.year in ['2021', '2022']: 
             self.oneYear()
         self.print_elapsed_time('Full run', start)
 
@@ -45,7 +45,9 @@ class mboxToKml:
                                     # self.convert_to_png(fname, thePart)
                                     # secs = round(time.time() - strt, 0)
                                     # print(str(secs) + ': ' + fname)
-                                    filesWritten[fname] = { 'subject' : message['subject'], 'date' : message['date'], 'pngData' : self.extract_png_data(thePart)}
+                                    filesWritten[fname] = { 'subject' : message['subject'],
+                                                            'date' : self.create_date(message['date']),
+                                                            'pngData' : self.extract_png_data(thePart)}
                         else:
                             print('Message# : ' + str(i) + ': unhandled: ' + part._default_type)
                 else:
@@ -54,16 +56,17 @@ class mboxToKml:
         print('converted: ' + str(len(filesWritten)))
         self.write_kml(filesWritten)
 
+    def create_date(self, orig_date_str):
+        if orig_date_str[6] == ' ':
+            orig_date_str = orig_date_str[:5] + '0' + orig_date_str[5:]
+        return datetime.strptime(orig_date_str, '%a, %d %b %Y %H:%M:%S %z')
+
     def write_kml(self, fnames):
         kml = '<?xml version="1.0" encoding="UTF-8"?>\n\
 <kml xmlns="http://www.opengis.net/kml/2.2">\n\
   <Document>\n'
-        for fn, headers in fnames.items():
-            orig_date_str = headers['date']
-            if orig_date_str[6] == ' ':
-                orig_date_str = orig_date_str[:5] + '0' + orig_date_str[5:]
-            date_time_obj = datetime.strptime(orig_date_str, '%a, %d %b %Y %H:%M:%S %z')
-            date_str = datetime.strftime(date_time_obj, '%a, %b %d %Y')
+        for fn, headers in sorted(fnames.items(), key=lambda item: item[1]['date']):
+            date_str = datetime.strftime(headers['date'], '%a, %b %d %Y')
             fname = fn.replace('.png', '').replace('  ', ' ')
             fname = fname[0].upper() + fname[1:]
             kml = kml + ('    <Placemark>\n' +
