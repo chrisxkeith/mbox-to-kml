@@ -39,5 +39,19 @@
       </coordinates>
     </Point>
   </Placemark>
-
+  <Placemark>
+    <name>Bright yellow house</name>
+    <description>Thu, May 13 2021</description>
+    <Point>
+      <coordinates>
+      </coordinates>
+    </Point>    <Placemark>
+      <name>Trash in a tree</name>
+      <description>Fri, May 21 2021</description>
+      <Point>
+        <coordinates>
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Placemark>
 </x>
