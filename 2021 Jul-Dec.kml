@@ -222,6 +222,7 @@
       <description>Sat, Oct 09 2021</description>
       <Point>
         <coordinates>
+          -122.137241, 37.736102
         </coordinates>
       </Point>
     </Placemark>
@@ -375,14 +376,6 @@
       <Point>
         <coordinates>
           -122.136704, 37.735918
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Halloween dog with Christmas bow</name>
-      <description>Wed, Dec 22 2021</description>
-      <Point>
-        <coordinates>
         </coordinates>
       </Point>
     </Placemark>
