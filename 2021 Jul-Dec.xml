@@ -226,18 +226,11 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>Windblown Halloween decorations</name>
-      <description>Mon, Oct 11 2021</description>
-      <Point>
-        <coordinates>
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
       <name>Restaurant Halloween decorations</name>
       <description>Wed, Oct 13 2021</description>
       <Point>
         <coordinates>
+          -122.161055, 37.731777
         </coordinates>
       </Point>
     </Placemark>
@@ -246,6 +239,7 @@
       <description>Wed, Oct 13 2021</description>
       <Point>
         <coordinates>
+          -122.161397, 37.732288
         </coordinates>
       </Point>
     </Placemark>
@@ -254,6 +248,7 @@
       <description>Thu, Oct 14 2021</description>
       <Point>
         <coordinates>
+          -122.156367, 37.736870
         </coordinates>
       </Point>
     </Placemark>
@@ -262,14 +257,7 @@
       <description>Sat, Oct 16 2021</description>
       <Point>
         <coordinates>
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Digital overtheair TV antenna</name>
-      <description>Sat, Oct 16 2021</description>
-      <Point>
-        <coordinates>
+          -122.157974, 37.736290
         </coordinates>
       </Point>
     </Placemark>
@@ -278,6 +266,7 @@
       <description>Mon, Oct 18 2021</description>
       <Point>
         <coordinates>
+          -122.154879, 37.737574
         </coordinates>
       </Point>
     </Placemark>
@@ -286,6 +275,7 @@
       <description>Wed, Oct 20 2021</description>
       <Point>
         <coordinates>
+          -122.133759, 37.735624
         </coordinates>
       </Point>
     </Placemark>
@@ -294,14 +284,7 @@
       <description>Fri, Oct 22 2021</description>
       <Point>
         <coordinates>
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Halloween cookie potluck sign</name>
-      <description>Tue, Oct 26 2021</description>
-      <Point>
-        <coordinates>
+          -122.137278, 37.736197
         </coordinates>
       </Point>
     </Placemark>
@@ -310,6 +293,7 @@
       <description>Sat, Oct 30 2021</description>
       <Point>
         <coordinates>
+          -122.151033, 37.737790
         </coordinates>
       </Point>
     </Placemark>
@@ -318,6 +302,7 @@
       <description>Tue, Nov 02 2021</description>
       <Point>
         <coordinates>
+          -122.150839, 37.737876
         </coordinates>
       </Point>
     </Placemark>
@@ -326,22 +311,7 @@
       <description>Wed, Nov 03 2021</description>
       <Point>
         <coordinates>
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Orange and black flamingos 457</name>
-      <description>Wed, Nov 03 2021</description>
-      <Point>
-        <coordinates>
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Gentrifence on a trailer</name>
-      <description>Sun, Nov 07 2021</description>
-      <Point>
-        <coordinates>
+          -122.147224, 37.738925
         </coordinates>
       </Point>
     </Placemark>
@@ -350,14 +320,7 @@
       <description>Tue, Nov 09 2021</description>
       <Point>
         <coordinates>
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Strangelooking chimney top</name>
-      <description>Sat, Nov 20 2021</description>
-      <Point>
-        <coordinates>
+          -122.130821, 37.734867
         </coordinates>
       </Point>
     </Placemark>
@@ -366,14 +329,7 @@
       <description>Tue, Nov 23 2021</description>
       <Point>
         <coordinates>
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Seedpods against the sky</name>
-      <description>Thu, Nov 25 2021</description>
-      <Point>
-        <coordinates>
+          -122.130802, 37.734421
         </coordinates>
       </Point>
     </Placemark>
@@ -382,6 +338,7 @@
       <description>Sun, Nov 28 2021</description>
       <Point>
         <coordinates>
+          -122.132664, 37.735020
         </coordinates>
       </Point>
     </Placemark>
@@ -390,14 +347,7 @@
       <description>Mon, Nov 29 2021</description>
       <Point>
         <coordinates>
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Someones getting their house painted</name>
-      <description>Wed, Dec 01 2021</description>
-      <Point>
-        <coordinates>
+          -122.143392, 37.738897
         </coordinates>
       </Point>
     </Placemark>
@@ -406,30 +356,7 @@
       <description>Sat, Dec 04 2021</description>
       <Point>
         <coordinates>
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Trees turning color 393</name>
-      <description>Sat, Dec 04 2021</description>
-      <Point>
-        <coordinates>
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Asymmetrical tree leaves</name>
-      <description>Sun, Dec 05 2021</description>
-      <Point>
-        <coordinates>
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Asymmetrical tree leaves 41</name>
-      <description>Sun, Dec 05 2021</description>
-      <Point>
-        <coordinates>
+          -122.149655, 37.733871
         </coordinates>
       </Point>
     </Placemark>
@@ -438,6 +365,7 @@
       <description>Sun, Dec 19 2021</description>
       <Point>
         <coordinates>
+          -122.131603, 37.734522
         </coordinates>
       </Point>
     </Placemark>
@@ -446,6 +374,7 @@
       <description>Tue, Dec 21 2021</description>
       <Point>
         <coordinates>
+          -122.136704, 37.735918
         </coordinates>
       </Point>
     </Placemark>
@@ -458,42 +387,11 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>Halloween dog with Christmas bow 232</name>
-      <description>Wed, Dec 22 2021</description>
-      <Point>
-        <coordinates>
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Leaf stains</name>
-      <description>Thu, Dec 23 2021</description>
-      <Point>
-        <coordinates>
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Bright foliage grey sky</name>
-      <description>Mon, Dec 27 2021</description>
-      <Point>
-        <coordinates>
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Bright foliage grey sky 35</name>
-      <description>Mon, Dec 27 2021</description>
-      <Point>
-        <coordinates>
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
       <name>Why so sad pumpkin</name>
       <description>Fri, Dec 31 2021</description>
       <Point>
         <coordinates>
+          -122.150734, 37.737925
         </coordinates>
       </Point>
     </Placemark>
