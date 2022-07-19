@@ -6,6 +6,7 @@
       <description>Fri, Apr 01 2022</description>
       <Point>
         <coordinates>
+          -122.155700, 37.737033
         </coordinates>
       </Point>
     </Placemark>
@@ -14,6 +15,7 @@
       <description>Sat, Apr 02 2022</description>
       <Point>
         <coordinates>
+          -122.151617, 37.738829
         </coordinates>
       </Point>
     </Placemark>
@@ -22,6 +24,7 @@
       <description>Sun, Apr 03 2022</description>
       <Point>
         <coordinates>
+          -122.144955, 37.745679
         </coordinates>
       </Point>
     </Placemark>
@@ -30,14 +33,7 @@
       <description>Mon, Apr 04 2022</description>
       <Point>
         <coordinates>
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Way</name>
-      <description>Tue, Apr 05 2022</description>
-      <Point>
-        <coordinates>
+          -122.146495, 37.732751
         </coordinates>
       </Point>
     </Placemark>
@@ -46,6 +42,7 @@
       <description>Wed, Apr 06 2022</description>
       <Point>
         <coordinates>
+          -122.143059, 37.736246
         </coordinates>
       </Point>
     </Placemark>
@@ -54,14 +51,7 @@
       <description>Thu, Apr 07 2022</description>
       <Point>
         <coordinates>
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Sleeping pig</name>
-      <description>Fri, Apr 08 2022</description>
-      <Point>
-        <coordinates>
+          -122.163020, 37.733260
         </coordinates>
       </Point>
     </Placemark>
@@ -70,6 +60,7 @@
       <description>Sat, Apr 09 2022</description>
       <Point>
         <coordinates>
+          -122.152571, 37.738531
         </coordinates>
       </Point>
     </Placemark>
@@ -78,6 +69,7 @@
       <description>Sun, Apr 10 2022</description>
       <Point>
         <coordinates>
+          -122.145644, 37.745564
         </coordinates>
       </Point>
     </Placemark>
@@ -86,6 +78,7 @@
       <description>Mon, Apr 11 2022</description>
       <Point>
         <coordinates>
+          -122.144307, 37.746124
         </coordinates>
       </Point>
     </Placemark>
@@ -94,6 +87,7 @@
       <description>Tue, Apr 12 2022</description>
       <Point>
         <coordinates>
+          -122.146674, 37.745732
         </coordinates>
       </Point>
     </Placemark>
@@ -102,6 +96,7 @@
       <description>Wed, Apr 13 2022</description>
       <Point>
         <coordinates>
+          -122.147858, 37.741129
         </coordinates>
       </Point>
     </Placemark>
@@ -110,6 +105,7 @@
       <description>Thu, Apr 14 2022</description>
       <Point>
         <coordinates>
+          -122.150332, 37.740378
         </coordinates>
       </Point>
     </Placemark>
@@ -118,6 +114,7 @@
       <description>Fri, Apr 15 2022</description>
       <Point>
         <coordinates>
+          -122.143715, 37.746044
         </coordinates>
       </Point>
     </Placemark>
