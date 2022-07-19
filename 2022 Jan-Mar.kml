@@ -2,42 +2,11 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
     <Placemark>
-      <name>Why so sad pumpkin</name>
-      <description>Fri, Dec 31 2021</description>
-      <Point>
-        <coordinates>
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
       <name>Someones got a leak</name>
       <description>Mon, Jan 03 2022</description>
       <Point>
         <coordinates>
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>House paint color choice</name>
-      <description>Wed, Jan 05 2022</description>
-      <Point>
-        <coordinates>
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>House paint color choice 118</name>
-      <description>Wed, Jan 05 2022</description>
-      <Point>
-        <coordinates>
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Red red leaf</name>
-      <description>Sat, Jan 08 2022</description>
-      <Point>
-        <coordinates>
+          -122.144454, 37.739702
         </coordinates>
       </Point>
     </Placemark>
@@ -46,38 +15,7 @@
       <description>Mon, Jan 10 2022</description>
       <Point>
         <coordinates>
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Solar powered birdbath fountain 189</name>
-      <description>Mon, Jan 10 2022</description>
-      <Point>
-        <coordinates>
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>No its not earth</name>
-      <description>Wed, Jan 12 2022</description>
-      <Point>
-        <coordinates>
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>No its not earth 290</name>
-      <description>Wed, Jan 12 2022</description>
-      <Point>
-        <coordinates>
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Many mysterious metal markers on phone pole</name>
-      <description>Fri, Jan 14 2022</description>
-      <Point>
-        <coordinates>
+          -122.133747, 37.735999
         </coordinates>
       </Point>
     </Placemark>
@@ -86,14 +24,7 @@
       <description>Sun, Jan 16 2022</description>
       <Point>
         <coordinates>
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Garage facade</name>
-      <description>Tue, Jan 18 2022</description>
-      <Point>
-        <coordinates>
+          -122.147234, 37.738893
         </coordinates>
       </Point>
     </Placemark>
@@ -102,14 +33,7 @@
       <description>Sat, Jan 22 2022</description>
       <Point>
         <coordinates>
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Its been windy here 14</name>
-      <description>Sat, Jan 22 2022</description>
-      <Point>
-        <coordinates>
+          -122.143668, 37.739234
         </coordinates>
       </Point>
     </Placemark>
@@ -118,6 +42,7 @@
       <description>Mon, Jan 24 2022</description>
       <Point>
         <coordinates>
+          -122.133778, 37.736231
         </coordinates>
       </Point>
     </Placemark>
@@ -126,6 +51,7 @@
       <description>Wed, Jan 26 2022</description>
       <Point>
         <coordinates>
+          -122.140604, 37.737650
         </coordinates>
       </Point>
     </Placemark>
@@ -138,42 +64,11 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>Tulip tree</name>
-      <description>Fri, Jan 28 2022</description>
-      <Point>
-        <coordinates>
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Guard lion</name>
-      <description>Sun, Jan 30 2022</description>
-      <Point>
-        <coordinates>
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
       <name>Snowman bucket</name>
       <description>Sun, Feb 06 2022</description>
       <Point>
         <coordinates>
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Need a door</name>
-      <description>Wed, Feb 09 2022</description>
-      <Point>
-        <coordinates>
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Fixing the leaks</name>
-      <description>Fri, Feb 11 2022</description>
-      <Point>
-        <coordinates>
+          -122.134192, 37.736417
         </coordinates>
       </Point>
     </Placemark>
@@ -182,6 +77,7 @@
       <description>Fri, Feb 11 2022</description>
       <Point>
         <coordinates>
+          -122.160219, 37.730861
         </coordinates>
       </Point>
     </Placemark>
@@ -190,6 +86,7 @@
       <description>Sun, Feb 13 2022</description>
       <Point>
         <coordinates>
+          -122.154393, 37.737744
         </coordinates>
       </Point>
     </Placemark>
@@ -198,6 +95,7 @@
       <description>Sun, Feb 13 2022</description>
       <Point>
         <coordinates>
+          -122.160761, 37.731244
         </coordinates>
       </Point>
     </Placemark>
@@ -206,6 +104,7 @@
       <description>Mon, Feb 14 2022</description>
       <Point>
         <coordinates>
+          -122.162663, 37.733946
         </coordinates>
       </Point>
     </Placemark>
@@ -214,62 +113,7 @@
       <description>Wed, Feb 16 2022</description>
       <Point>
         <coordinates>
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Ragtag and bobtail lawn ornaments</name>
-      <description>Thu, Feb 17 2022</description>
-      <Point>
-        <coordinates>
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Carefully trimmed vine</name>
-      <description>Fri, Feb 18 2022</description>
-      <Point>
-        <coordinates>
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Trees reaching for the sky</name>
-      <description>Sat, Feb 19 2022</description>
-      <Point>
-        <coordinates>
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Houses with symmetry</name>
-      <description>Sun, Feb 20 2022</description>
-      <Point>
-        <coordinates>
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Houses with symmetry 74</name>
-      <description>Sun, Feb 20 2022</description>
-      <Point>
-        <coordinates>
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Lawn ornaments gone wild</name>
-      <description>Mon, Feb 21 2022</description>
-      <Point>
-        <coordinates>
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Cactus forest</name>
-      <description>Tue, Feb 22 2022</description>
-      <Point>
-        <coordinates>
+          -122.158751, 37.735931
         </coordinates>
       </Point>
     </Placemark>
@@ -278,6 +122,7 @@
       <description>Wed, Feb 23 2022</description>
       <Point>
         <coordinates>
+          -122.159158, 37.729635
         </coordinates>
       </Point>
     </Placemark>
@@ -286,6 +131,7 @@
       <description>Thu, Feb 24 2022</description>
       <Point>
         <coordinates>
+          -122.156047, 37.730526
         </coordinates>
       </Point>
     </Placemark>
@@ -294,6 +140,7 @@
       <description>Fri, Feb 25 2022</description>
       <Point>
         <coordinates>
+          -122.138634, 37.735699
         </coordinates>
       </Point>
     </Placemark>
@@ -302,6 +149,7 @@
       <description>Sat, Feb 26 2022</description>
       <Point>
         <coordinates>
+          -122.148886, 37.735285
         </coordinates>
       </Point>
     </Placemark>
@@ -310,14 +158,7 @@
       <description>Sun, Feb 27 2022</description>
       <Point>
         <coordinates>
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Plasticwrapped tree base</name>
-      <description>Mon, Feb 28 2022</description>
-      <Point>
-        <coordinates>
+          -122.163821, 37.734607
         </coordinates>
       </Point>
     </Placemark>
@@ -326,6 +167,7 @@
       <description>Tue, Mar 01 2022</description>
       <Point>
         <coordinates>
+          -122.160818, 37.734970
         </coordinates>
       </Point>
     </Placemark>
@@ -334,6 +176,7 @@
       <description>Wed, Mar 02 2022</description>
       <Point>
         <coordinates>
+          -122.146779, 37.734260
         </coordinates>
       </Point>
     </Placemark>
@@ -342,6 +185,7 @@
       <description>Thu, Mar 03 2022</description>
       <Point>
         <coordinates>
+          -122.162051, 37.730641
         </coordinates>
       </Point>
     </Placemark>
@@ -350,6 +194,7 @@
       <description>Fri, Mar 04 2022</description>
       <Point>
         <coordinates>
+          -122.159869, 37.735379
         </coordinates>
       </Point>
     </Placemark>
@@ -358,6 +203,7 @@
       <description>Sat, Mar 05 2022</description>
       <Point>
         <coordinates>
+          -122.162488, 37.733700
         </coordinates>
       </Point>
     </Placemark>
@@ -366,14 +212,7 @@
       <description>Sun, Mar 06 2022</description>
       <Point>
         <coordinates>
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>House numbers on 500 block of Kenilworth 53</name>
-      <description>Sun, Mar 06 2022</description>
-      <Point>
-        <coordinates>
+          -122.150107, 37.735114
         </coordinates>
       </Point>
     </Placemark>
@@ -382,6 +221,7 @@
       <description>Mon, Mar 07 2022</description>
       <Point>
         <coordinates>
+          -122.147092, 37.733174
         </coordinates>
       </Point>
     </Placemark>
@@ -390,6 +230,7 @@
       <description>Tue, Mar 08 2022</description>
       <Point>
         <coordinates>
+          -122.141870, 37.732455
         </coordinates>
       </Point>
     </Placemark>
@@ -398,6 +239,7 @@
       <description>Wed, Mar 09 2022</description>
       <Point>
         <coordinates>
+          -122.138288, 37.730645
         </coordinates>
       </Point>
     </Placemark>
@@ -406,14 +248,7 @@
       <description>Thu, Mar 10 2022</description>
       <Point>
         <coordinates>
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>New cactus growth</name>
-      <description>Fri, Mar 11 2022</description>
-      <Point>
-        <coordinates>
+          -122.137648, 37.735383
         </coordinates>
       </Point>
     </Placemark>
@@ -422,6 +257,7 @@
       <description>Sat, Mar 12 2022</description>
       <Point>
         <coordinates>
+          -122.141916, 37.746781
         </coordinates>
       </Point>
     </Placemark>
@@ -430,22 +266,7 @@
       <description>Sun, Mar 13 2022</description>
       <Point>
         <coordinates>
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>New type of security door</name>
-      <description>Mon, Mar 14 2022</description>
-      <Point>
-        <coordinates>
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>New type of security door 400</name>
-      <description>Mon, Mar 14 2022</description>
-      <Point>
-        <coordinates>
+          -122.144265, 37.746129
         </coordinates>
       </Point>
     </Placemark>
@@ -454,6 +275,7 @@
       <description>Tue, Mar 15 2022</description>
       <Point>
         <coordinates>
+          -122.149063, 37.740749
         </coordinates>
       </Point>
     </Placemark>
@@ -462,6 +284,7 @@
       <description>Wed, Mar 16 2022</description>
       <Point>
         <coordinates>
+          -122.147199, 37.741518
         </coordinates>
       </Point>
     </Placemark>
@@ -470,6 +293,7 @@
       <description>Thu, Mar 17 2022</description>
       <Point>
         <coordinates>
+          -122.146960, 37.742872
         </coordinates>
       </Point>
     </Placemark>
@@ -478,6 +302,7 @@
       <description>Fri, Mar 18 2022</description>
       <Point>
         <coordinates>
+          -122.147838, 37.743508
         </coordinates>
       </Point>
     </Placemark>
@@ -486,6 +311,7 @@
       <description>Sat, Mar 19 2022</description>
       <Point>
         <coordinates>
+          -122.139707, 37.747350
         </coordinates>
       </Point>
     </Placemark>
@@ -494,14 +320,7 @@
       <description>Sun, Mar 20 2022</description>
       <Point>
         <coordinates>
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Proofreader needed</name>
-      <description>Mon, Mar 21 2022</description>
-      <Point>
-        <coordinates>
+          -122.153040, 37.720474
         </coordinates>
       </Point>
     </Placemark>
@@ -510,6 +329,7 @@
       <description>Tue, Mar 22 2022</description>
       <Point>
         <coordinates>
+          -122.150423, 37.735911
         </coordinates>
       </Point>
     </Placemark>
@@ -518,14 +338,7 @@
       <description>Wed, Mar 23 2022</description>
       <Point>
         <coordinates>
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Please no pee</name>
-      <description>Wed, Mar 23 2022</description>
-      <Point>
-        <coordinates>
+          -122.152896, 37.719670
         </coordinates>
       </Point>
     </Placemark>
@@ -534,14 +347,7 @@
       <description>Thu, Mar 24 2022</description>
       <Point>
         <coordinates>
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Stone water</name>
-      <description>Fri, Mar 25 2022</description>
-      <Point>
-        <coordinates>
+          -122.152259, 37.718728
         </coordinates>
       </Point>
     </Placemark>
@@ -550,14 +356,7 @@
       <description>Sun, Mar 27 2022</description>
       <Point>
         <coordinates>
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Crate table chain 519</name>
-      <description>Sun, Mar 27 2022</description>
-      <Point>
-        <coordinates>
+          -122.146972, 37.741784
         </coordinates>
       </Point>
     </Placemark>
@@ -566,6 +365,7 @@
       <description>Mon, Mar 28 2022</description>
       <Point>
         <coordinates>
+          -122.148199, 37.745435
         </coordinates>
       </Point>
     </Placemark>
@@ -574,6 +374,7 @@
       <description>Tue, Mar 29 2022</description>
       <Point>
         <coordinates>
+          -122.162315, 37.734185
         </coordinates>
       </Point>
     </Placemark>
@@ -582,6 +383,7 @@
       <description>Wed, Mar 30 2022</description>
       <Point>
         <coordinates>
+          -122.164214, 37.728608
         </coordinates>
       </Point>
     </Placemark>
@@ -590,6 +392,7 @@
       <description>Thu, Mar 31 2022</description>
       <Point>
         <coordinates>
+          -122.161576, 37.729855
         </coordinates>
       </Point>
     </Placemark>
