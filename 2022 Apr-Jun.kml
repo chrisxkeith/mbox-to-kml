@@ -123,6 +123,7 @@
       <description>Sat, Apr 16 2022</description>
       <Point>
         <coordinates>
+          -122.159968, 37.735359
         </coordinates>
       </Point>
     </Placemark>
@@ -131,6 +132,7 @@
       <description>Sun, Apr 17 2022</description>
       <Point>
         <coordinates>
+          -122.165531, 37.731027
         </coordinates>
       </Point>
     </Placemark>
@@ -139,6 +141,7 @@
       <description>Mon, Apr 18 2022</description>
       <Point>
         <coordinates>
+          -122.149936, 37.733823
         </coordinates>
       </Point>
     </Placemark>
@@ -147,6 +150,7 @@
       <description>Tue, Apr 19 2022</description>
       <Point>
         <coordinates>
+          -122.150436, 37.736324
         </coordinates>
       </Point>
     </Placemark>
@@ -155,6 +159,7 @@
       <description>Wed, Apr 20 2022</description>
       <Point>
         <coordinates>
+          -122.151258, 37.735999
         </coordinates>
       </Point>
     </Placemark>
@@ -163,22 +168,7 @@
       <description>Thu, Apr 21 2022</description>
       <Point>
         <coordinates>
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Colorful stones</name>
-      <description>Fri, Apr 22 2022</description>
-      <Point>
-        <coordinates>
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Trailer with a porthole</name>
-      <description>Sat, Apr 23 2022</description>
-      <Point>
-        <coordinates>
+          -122.148002, 37.730923
         </coordinates>
       </Point>
     </Placemark>
@@ -187,22 +177,7 @@
       <description>Sun, Apr 24 2022</description>
       <Point>
         <coordinates>
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Fwd colorful stones</name>
-      <description>Sun, Apr 24 2022</description>
-      <Point>
-        <coordinates>
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Fwd colorful stones 236</name>
-      <description>Sun, Apr 24 2022</description>
-      <Point>
-        <coordinates>
+          -122.138558, 37.729760
         </coordinates>
       </Point>
     </Placemark>
@@ -211,6 +186,7 @@
       <description>Mon, Apr 25 2022</description>
       <Point>
         <coordinates>
+          -122.151864, 37.739513
         </coordinates>
       </Point>
     </Placemark>
@@ -219,6 +195,7 @@
       <description>Tue, Apr 26 2022</description>
       <Point>
         <coordinates>
+          -122.146736, 37.742620
         </coordinates>
       </Point>
     </Placemark>
@@ -227,6 +204,7 @@
       <description>Wed, Apr 27 2022</description>
       <Point>
         <coordinates>
+          -122.158360, 37.736132
         </coordinates>
       </Point>
     </Placemark>
@@ -235,14 +213,7 @@
       <description>Thu, Apr 28 2022</description>
       <Point>
         <coordinates>
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Why not trim both sides</name>
-      <description>Fri, Apr 29 2022</description>
-      <Point>
-        <coordinates>
+          -122.161955, 37.731344
         </coordinates>
       </Point>
     </Placemark>
@@ -251,22 +222,7 @@
       <description>Sat, Apr 30 2022</description>
       <Point>
         <coordinates>
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>I cant decide</name>
-      <description>Sun, May 01 2022</description>
-      <Point>
-        <coordinates>
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Functional and decorative</name>
-      <description>Mon, May 02 2022</description>
-      <Point>
-        <coordinates>
+          -122.159916, 37.733014
         </coordinates>
       </Point>
     </Placemark>
@@ -275,6 +231,7 @@
       <description>Tue, May 03 2022</description>
       <Point>
         <coordinates>
+          -122.145094, 37.745626
         </coordinates>
       </Point>
     </Placemark>
@@ -283,46 +240,7 @@
       <description>Wed, May 04 2022</description>
       <Point>
         <coordinates>
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Chained and bolted crate mystery solved</name>
-      <description>Thu, May 05 2022</description>
-      <Point>
-        <coordinates>
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Chained and bolted crate mystery solved 151</name>
-      <description>Thu, May 05 2022</description>
-      <Point>
-        <coordinates>
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Snoozing doggie</name>
-      <description>Fri, May 06 2022</description>
-      <Point>
-        <coordinates>
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Concrete landscaping separators</name>
-      <description>Sat, May 07 2022</description>
-      <Point>
-        <coordinates>
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Guard bear</name>
-      <description>Sun, May 08 2022</description>
-      <Point>
-        <coordinates>
+          -122.142276, 37.746528
         </coordinates>
       </Point>
     </Placemark>
@@ -331,6 +249,7 @@
       <description>Mon, May 09 2022</description>
       <Point>
         <coordinates>
+          -122.161620, 37.731342
         </coordinates>
       </Point>
     </Placemark>
@@ -339,46 +258,7 @@
       <description>Tue, May 10 2022</description>
       <Point>
         <coordinates>
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Trees in chains 527</name>
-      <description>Tue, May 10 2022</description>
-      <Point>
-        <coordinates>
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Wooden gate</name>
-      <description>Wed, May 11 2022</description>
-      <Point>
-        <coordinates>
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Gotta protect my gate post</name>
-      <description>Thu, May 12 2022</description>
-      <Point>
-        <coordinates>
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Tin can tin man</name>
-      <description>Fri, May 13 2022</description>
-      <Point>
-        <coordinates>
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Tin can tin man 298</name>
-      <description>Fri, May 13 2022</description>
-      <Point>
-        <coordinates>
+          -122.156763, 37.736654
         </coordinates>
       </Point>
     </Placemark>
@@ -387,6 +267,7 @@
       <description>Sun, May 15 2022</description>
       <Point>
         <coordinates>
+          -122.159560, 37.735559
         </coordinates>
       </Point>
     </Placemark>
@@ -395,22 +276,7 @@
       <description>Mon, May 16 2022</description>
       <Point>
         <coordinates>
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Survivalist trailer</name>
-      <description>Tue, May 17 2022</description>
-      <Point>
-        <coordinates>
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Survivalist trailer 66</name>
-      <description>Tue, May 17 2022</description>
-      <Point>
-        <coordinates>
+          -122.165091, 37.729222
         </coordinates>
       </Point>
     </Placemark>
@@ -419,22 +285,7 @@
       <description>Wed, May 18 2022</description>
       <Point>
         <coordinates>
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Lotsa pipes 322</name>
-      <description>Wed, May 18 2022</description>
-      <Point>
-        <coordinates>
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Twostory gutter</name>
-      <description>Thu, May 19 2022</description>
-      <Point>
-        <coordinates>
+          -122.161119, 37.732449
         </coordinates>
       </Point>
     </Placemark>
@@ -443,6 +294,7 @@
       <description>Fri, May 20 2022</description>
       <Point>
         <coordinates>
+          -122.161725, 37.734465
         </coordinates>
       </Point>
     </Placemark>
@@ -451,14 +303,7 @@
       <description>Sat, May 21 2022</description>
       <Point>
         <coordinates>
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Round window</name>
-      <description>Sun, May 22 2022</description>
-      <Point>
-        <coordinates>
+          -122.151383, 37.740092
         </coordinates>
       </Point>
     </Placemark>
@@ -467,6 +312,7 @@
       <description>Mon, May 23 2022</description>
       <Point>
         <coordinates>
+          -122.148021, 37.741770
         </coordinates>
       </Point>
     </Placemark>
@@ -475,22 +321,7 @@
       <description>Tue, May 24 2022</description>
       <Point>
         <coordinates>
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Im not sure about this paint color scheme</name>
-      <description>Wed, May 25 2022</description>
-      <Point>
-        <coordinates>
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Duh</name>
-      <description>Thu, May 26 2022</description>
-      <Point>
-        <coordinates>
+          -122.149558, 37.740595
         </coordinates>
       </Point>
     </Placemark>
@@ -499,14 +330,7 @@
       <description>Fri, May 27 2022</description>
       <Point>
         <coordinates>
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Someone didnt realize until too late they were going the wrong way 458</name>
-      <description>Fri, May 27 2022</description>
-      <Point>
-        <coordinates>
+          -122.142518, 37.738206
         </coordinates>
       </Point>
     </Placemark>
@@ -515,6 +339,7 @@
       <description>Sat, May 28 2022</description>
       <Point>
         <coordinates>
+          -122.145696, 37.721663
         </coordinates>
       </Point>
     </Placemark>
@@ -523,14 +348,7 @@
       <description>Sun, May 29 2022</description>
       <Point>
         <coordinates>
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>464</name>
-      <description>Mon, May 30 2022</description>
-      <Point>
-        <coordinates>
+          -122.148521, 37.720891
         </coordinates>
       </Point>
     </Placemark>
@@ -539,6 +357,7 @@
       <description>Tue, May 31 2022</description>
       <Point>
         <coordinates>
+          -122.149890, 37.718470
         </coordinates>
       </Point>
     </Placemark>
@@ -547,6 +366,7 @@
       <description>Wed, Jun 01 2022</description>
       <Point>
         <coordinates>
+          -122.165392, 37.731089
         </coordinates>
       </Point>
     </Placemark>
@@ -555,6 +375,7 @@
       <description>Thu, Jun 02 2022</description>
       <Point>
         <coordinates>
+          -122.160304, 37.735122
         </coordinates>
       </Point>
     </Placemark>
@@ -563,6 +384,7 @@
       <description>Fri, Jun 03 2022</description>
       <Point>
         <coordinates>
+          -122.154850, 37.735510
         </coordinates>
       </Point>
     </Placemark>
@@ -571,6 +393,7 @@
       <description>Sat, Jun 04 2022</description>
       <Point>
         <coordinates>
+          -122.141315, 37.746755
         </coordinates>
       </Point>
     </Placemark>
@@ -579,22 +402,7 @@
       <description>Sun, Jun 05 2022</description>
       <Point>
         <coordinates>
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>House of arches</name>
-      <description>Mon, Jun 06 2022</description>
-      <Point>
-        <coordinates>
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>New fast food</name>
-      <description>Tue, Jun 07 2022</description>
-      <Point>
-        <coordinates>
+          -122.138402, 37.748013
         </coordinates>
       </Point>
     </Placemark>
@@ -603,6 +411,7 @@
       <description>Wed, Jun 08 2022</description>
       <Point>
         <coordinates>
+          -122.137112, 37.746455
         </coordinates>
       </Point>
     </Placemark>
@@ -611,6 +420,7 @@
       <description>Thu, Jun 09 2022</description>
       <Point>
         <coordinates>
+          -122.168282, 37.733315
         </coordinates>
       </Point>
     </Placemark>
@@ -619,6 +429,7 @@
       <description>Fri, Jun 10 2022</description>
       <Point>
         <coordinates>
+          -122.155216, 37.734265
         </coordinates>
       </Point>
     </Placemark>
@@ -627,6 +438,7 @@
       <description>Sat, Jun 11 2022</description>
       <Point>
         <coordinates>
+          -122.164151, 37.735301
         </coordinates>
       </Point>
     </Placemark>
@@ -635,6 +447,7 @@
       <description>Mon, Jun 13 2022</description>
       <Point>
         <coordinates>
+          -122.160305, 37.736510
         </coordinates>
       </Point>
     </Placemark>
@@ -643,6 +456,7 @@
       <description>Tue, Jun 14 2022</description>
       <Point>
         <coordinates>
+          -122.165850, 37.734516
         </coordinates>
       </Point>
     </Placemark>
@@ -651,6 +465,7 @@
       <description>Wed, Jun 15 2022</description>
       <Point>
         <coordinates>
+          -122.154432, 37.737742
         </coordinates>
       </Point>
     </Placemark>
@@ -659,14 +474,7 @@
       <description>Thu, Jun 16 2022</description>
       <Point>
         <coordinates>
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Tin can critters</name>
-      <description>Fri, Jun 17 2022</description>
-      <Point>
-        <coordinates>
+          -122.167640, 37.733691
         </coordinates>
       </Point>
     </Placemark>
@@ -675,14 +483,7 @@
       <description>Sat, Jun 18 2022</description>
       <Point>
         <coordinates>
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Stop</name>
-      <description>Sun, Jun 19 2022</description>
-      <Point>
-        <coordinates>
+          -122.160683, 37.736362
         </coordinates>
       </Point>
     </Placemark>
@@ -691,6 +492,7 @@
       <description>Mon, Jun 20 2022</description>
       <Point>
         <coordinates>
+          -122.167416, 37.734508
         </coordinates>
       </Point>
     </Placemark>
@@ -699,22 +501,7 @@
       <description>Tue, Jun 21 2022</description>
       <Point>
         <coordinates>
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Roadrunner with dated plastic egg 40</name>
-      <description>Tue, Jun 21 2022</description>
-      <Point>
-        <coordinates>
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Take a plant leave a plant</name>
-      <description>Wed, Jun 22 2022</description>
-      <Point>
-        <coordinates>
+          -122.168163, 37.734070
         </coordinates>
       </Point>
     </Placemark>
@@ -723,6 +510,7 @@
       <description>Thu, Jun 23 2022</description>
       <Point>
         <coordinates>
+          -122.168113, 37.734092
         </coordinates>
       </Point>
     </Placemark>
@@ -731,14 +519,7 @@
       <description>Fri, Jun 24 2022</description>
       <Point>
         <coordinates>
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>This tree is awfully close to the house</name>
-      <description>Sat, Jun 25 2022</description>
-      <Point>
-        <coordinates>
+          -122.161283, 37.736158
         </coordinates>
       </Point>
     </Placemark>
@@ -747,6 +528,7 @@
       <description>Sun, Jun 26 2022</description>
       <Point>
         <coordinates>
+          -122.164833, 37.736383
         </coordinates>
       </Point>
     </Placemark>
@@ -755,6 +537,7 @@
       <description>Mon, Jun 27 2022</description>
       <Point>
         <coordinates>
+          -122.151807, 37.739353
         </coordinates>
       </Point>
     </Placemark>
@@ -763,6 +546,7 @@
       <description>Tue, Jun 28 2022</description>
       <Point>
         <coordinates>
+          -122.148687, 37.728850
         </coordinates>
       </Point>
     </Placemark>
