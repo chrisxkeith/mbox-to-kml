@@ -3,22 +3,23 @@ import time
 import base64
 import re
 from datetime import datetime
+import glob
+import os
 
 class mboxToKml:
     def run(self):
         start = time.time()
-        # for self.year in ['2020-10-emails']:
-        for self.year in ['2021', '2022']: 
-            self.oneYear()
+        for self.mboxFile in glob.glob("*.mbox"): 
+            self.oneFile()
         self.print_elapsed_time('Full run', start)
 
-    def oneYear(self):
+    def oneFile(self):
         filesWritten = {}
         start = time.time()
-        mbox = mailbox.mbox(self.year + '.mbox')
+        mbox = mailbox.mbox(self.mboxFile)
         for i, message in enumerate(mbox):
             if i == 0:
-                self.print_elapsed_time('Open mbox file: ' + self.year + '.mbox', start)
+                self.print_elapsed_time('Open mbox file: ' + self.mboxFile, start)
             if message['from'] == 'Christopher Keith <chris.keith@gmail.com>' and \
                     not message['subject'].startswith('Re:'):
                 if message.is_multipart():
@@ -41,10 +42,10 @@ class mboxToKml:
                                     else:
                                         fname = fname.replace('.png', '') + ' ' + str(i) + '.png'
                                 if extractPng:
-                                    # strt = time.time()
-                                    # self.convert_to_png(fname, thePart)
-                                    # secs = round(time.time() - strt, 0)
-                                    # print(str(secs) + ': ' + fname)
+                                    strt = time.time()
+                                    self.convert_to_png(fname, thePart)
+                                    secs = round(time.time() - strt, 0)
+                                    print(str(secs) + ': ' + fname)
                                     filesWritten[fname] = { 'subject' : message['subject'],
                                                             'date' : self.create_date(message['date']),
                                                             'pngData' : self.extract_png_data(thePart)}
@@ -79,9 +80,12 @@ class mboxToKml:
 '    </Placemark>\n')
         kml = kml + ('  </Document>\n' +
 '</kml>')
-        g = open(self.year + '.xml', "w")
+        g = open(self.removeExtension() + '.xml', "w")
         g.write(kml)
     
+    def removeExtension(self):
+        return os.path.splitext(self.mboxFile)[0]
+
     def print_elapsed_time(self, msg, start):
         secs = round(time.time() - start, 0)
         s = format(int(round(secs / 60)), '02d') + ':' + format(int(round(secs % 60)), '02d')
@@ -107,7 +111,7 @@ class mboxToKml:
  
     def convert_to_png(self, fname, thePart):
         # Manually delete old photos when necessary, e.g., after changing file name code.
-        g = open(self.year + ' photos\\' + fname, "wb")
+        g = open(self.removeExtension() + ' photos\\' + fname, "wb")
         g.write(base64.b64decode(self.extract_png_data(thePart)))
  
 mboxToKml().run()
