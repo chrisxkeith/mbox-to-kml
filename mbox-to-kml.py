@@ -5,6 +5,7 @@ import re
 from datetime import datetime
 import glob
 import os
+from pathlib import Path
 
 class mboxToKml:
     def run(self):
@@ -17,9 +18,11 @@ class mboxToKml:
         filesWritten = {}
         start = time.time()
         mbox = mailbox.mbox(self.mboxFile)
+        self.newPhotoDirName = os.path.join(self.removeExtension() + ' photos')
         for i, message in enumerate(mbox):
             if i == 0:
                 self.print_elapsed_time('Open mbox file: ' + self.mboxFile, start)
+                Path(self.newPhotoDirName).mkdir(parents = True, exist_ok = True)
             if message['from'] == 'Christopher Keith <chris.keith@gmail.com>' and \
                     not message['subject'].startswith('Re:'):
                 if message.is_multipart():
@@ -111,7 +114,7 @@ class mboxToKml:
  
     def convert_to_png(self, fname, thePart):
         # Manually delete old photos when necessary, e.g., after changing file name code.
-        g = open(self.removeExtension() + ' photos\\' + fname, "wb")
+        g = open(os.path.join(self.newPhotoDirName, fname), "wb")
         g.write(base64.b64decode(self.extract_png_data(thePart)))
  
 mboxToKml().run()
