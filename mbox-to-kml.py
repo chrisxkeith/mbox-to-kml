@@ -83,7 +83,7 @@ class mboxToKml:
 '    </Placemark>\n')
         kml = kml + ('  </Document>\n' +
 '</kml>')
-        g = open(self.removeExtension() + '.xml', "w")
+        g = open(self.removeExtension() + '.kml', "w")
         g.write(kml)
     
     def removeExtension(self):
